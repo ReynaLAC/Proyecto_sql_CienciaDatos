@@ -1,2 +1,3 @@
 # Proyecto_sql_CienciaDatos
-# DEscripción: 
+# Descripción: 
+### Es un ejercicio que hacer las primeras consultas a 4 tablas sobre atletas olimpicos de Taekwondo
