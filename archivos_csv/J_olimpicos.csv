@@ -1,0 +1,177 @@
+anio, medalla, peso, genero, atleta, pais, birthday, TaekwondoID
+2021, oro, -58, male, Dell Aquila Vito, Italy, 03-11-2000, 28925R 
+2021, plata, -58, male, JENDOUBI  Mohamed Khalil, Tunisia, 01-06-2002, 36578K
+2021, bronce, -58, male, ARTAMONO  Mikhail, Russian Federation, 20-07-1997, 25382D
+2021, bronce, -58, male, JANG Jun, Korea, 11-11-1111, 35146B
+2021, oro, -68, male, RASHITOV Ulugbek, Uzbekistan, 23-03-2002, 30906Y
+2021, plata, -68, male, SINDEN Bradly, United Kingdom of Great Britai, 19-09-1998, 23675G
+2021, bronce, -68, male, RECBER Hakan, Turkey, 17-08-1999, 29572S
+2021, bronce, -68, male, "ZHAO, Shuai", China, 15-08-1995, 21443X
+2021, oro, -80, male, KHRAMTCOV Maksim, Russian Federation, 12-01-1998, 30489Z
+2021, plata, -80, male, ELSHARABATY Saleh, Jordan, 12-09-1998, 33423H
+2021, bronce, -80, male, KANAET Toni, Hrvatska, 04-09-1995, 18820W
+2021, bronce, -80, male, EISSA Seif, Egypt, 15-06-1998, 27734Z
+2021, oro, +80, male, LARIN Vladislav, Russian Federation, 07-10-1995, 18566K
+2021, plata, +80, male, GEORGIEVSKI Dejan, Macedonia, 08-05-1999, 32606H
+2021, bronce, +80, male, IN Kyo-Don, Korea, 27-06-1992, 22051X
+2021, bronce, +80, male, ALBA CASTILLO Rafael Yunier, Cuba, 12-08-1993, 20766E
+2021, oro, -49, female, WONGPHATTANAKIT Panipak, Thailand, 08-08-1997, 23387D
+2021, plata, -49, female, CEREZO IGLESIAS Adriana, Spain, 11-11-1111, 33897G
+2021, bronce, -49, female, SEMBERG Avishag, Israel, 16-09-2001, 25527W
+2021, bronce, -49, female, BOGDANOVIC Tijana, Serbia, 04-05-1998, 21328W
+2021, oro, -57, female, ZOLOTIC Anastasija, United States of America, 23-11-2002, 30293R
+2021, plata, -57, female, MININA (KUDASHOVA) Tatiana, Russian Federation, 18-04-1997, 21321K
+2021, bronce, -57, female, ILGUN Hatice Kubra, Turkey, 01-01-1993, 18495S
+2021, bronce, -57, female, LO Chia-Ling, Taiwan, 08-10-2001, 31160F
+2021, oro, -67, female, JELIC Matea, Hrvatska, 23-12-1997, 22248E
+2021, plata, -67, female, WILLIAMS Lauren, United Kingdom of Great Britai, 25-02-1999, 27269M
+2021, bronce, -67, female, GBAGBI Ruth Marie Christelle, Cote d_Ivoire, 07-02-1994, 20672F
+2021, bronce, -67, female, MALAK WAHBA Hedaya, Egypt, 21-04-1993, 20668B
+2021, oro, +67, female, MANDIC Milica, Serbia, 06-12-1991, 14561R
+2021, plata, +67, female, LEE Da-Bin, Korea, 07-12-1996, 23780X
+2021, bronce, +67, female, LAURIN Althea, France, 01-09-2001, 35278A
+2021, bronce, +67, female, COOK (WALKDEN) Bianca, United Kingdom of Great Britai, 29-09-1991, 16065W
+2016, oro, -58, male, ZHAO Shuai, China, 5-08-1995, 21443X
+2016, plata, -58, male, HANPRAB Tawin, Thailand, 01-08-1998, 26389D
+2016, bronce, -58, male, PIE Luisito, Dominican Republic, 04-03-1994, 28147S
+2016, bronce, -58, male, KIM Tae-Hun, Korea, 15-08-1994, 26477W
+2016, oro, -68, male, ABUGHAUSH Ahmad, Jordan, 01-02-1996, 21975X
+2016, plata, -68, male, DENISENKO Alexey, Russian Federation, 30-08-1993, 16315Z
+2016, bronce, -68, male, LEE Dae-Hoon, Korea, 05-02-1992, 20028H
+2016, bronce, -68, male, GONZALEZ BONILLA Joel, Spain, 30-09-1989, 17294M
+2016, oro, -80, male, CISSE Cheick Sallah, Cote d'Ivoire, 19-09-1993, 28249B
+2016, plata, -80, male, MASSOP-MUHAMMAD Lutalo, United Kingdom of Great Britai, 03-06-1991, 17226Y
+2016, bronce, -80, male, BEIGI HARCHEGANI Milad, Azerbaijan, 01-03-1991, 30449X
+2016, bronce, -80, male, OUESLATI Oussama, Tunisia, 24-03-1996, 23512T
+2016, oro, +80, male, ISAEV Radik, Azerbaijan, 26-09-1989, 21272X
+2016, plata, +80, male, ISSOUFOU ALFAGA Abdoulrazak, Niger, 26-12-1994, 23723X
+2016, bronce, +80, male, ANDRADE SIQUEIRA de Maicon, Brazil, 09-01-1993, 29514R
+2016, bronce, +80, male, CHA Dong-Min, Korea, 24-08-1986, 12672E
+2016, oro, -49, female, KIM So-Hui, Korea, 29-01-1994, 20297N
+2016, plata, -49, female, BOGDANOVIC Tijana, Serbia, 04-05-1998, 21328W
+2016, bronce, -49, female, ABAKAROVA Patimat, Azerbaijan, 23-10-1994, 20594D
+2016, bronce, -49, female, WONGPHATTANAKIT Panipak, Thailand, 08-08-1997, 23387D
+2016, oro, -57, female, JONES Jade, United Kingdom of Great Britai, 21-03-1993, 18621G
+2016, plata, -57, female, CALVO GOMEZ Eva, Spain, 28-07-1991, 20808K
+2016, bronce, -57, female, MALAK WAHBA Hedaya, Egypt, 21-04-1993, 20668B
+2016, bronce, -57, female, ALIZADEH ZENOORIN Kimia, Iran, 10-07-1998, 26358N
+2016, oro, -67, female, OH Hye-Ri, Korea, 30-04-1988, 19090A
+2016, plata, -67, female, NIARE Haby, France, 26-06-1993, 18498X
+2016, bronce, -67, female, GBAGBI Ruth Marie Christelle, Cote d'Ivoire, 07-02-1994, 20672F
+2016, bronce, -67, female, TATAR Nur, Turkey, 16-08-1992, 16840P
+2016, oro, +67, female, ZHENG Shuyin, China, 01-05-1994, 20338S
+2016, plata, +67, female, ESPINOZA Maria del Rosario, Mexico, 29-11-1987, 12614D
+2016, bronce, +67, female, GALLOWAY SANCHEZ Jaqueline Rose, United States of America, 27-12-1995, 21949M
+2016, bronce, +67, female, COOK (WALKDEN) Bianca, United Kingdom of Great Britai, 29-09-1991, 16065W
+2012, oro, -58, male, GONZALEZ BONILLA Joel, Spain, 30-09-1989, 17294M
+2012, plata, -58, male, LEE Dae-Hoon, Korea, 05-02-1992, 20028H
+2012, bronce, -58, male, DENISENKO Alexey, Russian Federation, 30-08-1993, 16315Z
+2012, bronce, -58, male, MUNOZ OVIEDO Oscar Luis, Colombia, 09-05-1993, 20294H
+2012, oro, -68, male, TAZEG�L Servet, Turkey, 26-09-1988, 11834C
+2012, plata, -68, male, BAGHERI MOTAMED Mohammed, Iran, 24-01-1986, 11117H
+2012, bronce, -68, male, NIKPAI Rohullah, Afghanistan, 15-06-1987, 15814P
+2012, bronce, -68, male, JENNINGS Terrance, United States of America, 28-07-1986, 12558E
+2012, oro, -80, male, CRISMANICH Sebastian, Argentina, 30-10-1986, 14128X
+2012, plata, -80, male, GARCIA HEMME Nicolas, Spain, 20-06-1988, 13774E
+2012, bronce, -80, male, SARMIENTO Mauro, Italy, 10-04-1983, 6198M
+2012, bronce, -80, male, MASSOP-MUHAMMAD Lutalo, United Kingdom of Great Britai, 03-06-1991, 17226Y
+2012, oro, +80, male, MOLFETTA Carlo, Italy, 15-02-1984, 4746B
+2012, plata, +80, male, OBAME Anthony Mylann, Gabon, 10-09-1988, 22066R
+2012, bronce, +80, male, LIU Xiaobo, China, 16-01-1984, 15724X
+2012, bronce, +80, male, DESPAIGNE SAUGUET Rosbelis, Cuba, 09-08-1988, 19182X
+2012, oro, -49, female, WU Jingyu, China, 01-02-1987, 13090E
+2012, plata, -49, female, YAGUE ENRIQUE Brigitte, Spain, 15-03-1981, 7658G
+2012, bronce, -49, female, ZANINOVIC Lucija, Hrvatska, 26-06-1987, 15045C
+2012, bronce, -49, female, SONKHAM Chanatip, Thailand, 01-03-1991, 16480R
+2012, oro, -57, female, JONES Jade, United Kingdom of Great Britai, 21-03-1993, 18621G
+2012, plata, -57, female, HOU Yuzhuo, China, 14-11-1987, 13160Y
+2012, bronce, -57, female, HARNOIS Marlene, France, 22-10-1986, 8918R
+2012, bronce, -57, female, TSENG Li-Cheng, Taiwan, 26-12-1986, 24118R
+2012, oro, -67, female, HWANG Kyung-Seon, Korea, 21-05-1986, 10963F
+2012, plata, -67, female, TATAR Nur, Turkey, 16-08-1992, 16840P
+2012, bronce, -67, female, McPHERSON Paige, United States of America, 01-10-1990, 17137E
+2012, bronce, -67, female, FROMM Helena, Germany, 05-08-1987, 8986E
+2012, oro, +67, female, MANDIC Milica, Serbia, 06-12-1991, 14561R
+2012, plata, +67, female, GRAFFE Anne Caroline, France, 12-02-1986, 12266X
+2012, bronce, +67, female, ESPINOZA Maria del Rosario, Mexico, 29-11-1987, 12614D
+2012, bronce, +67, female, BARYSHNIKOVA Anastasia, Russian Federation, 19-12-1990, 15575A
+2008, oro, -58, male, PEREZ SANDOVAL Guillermo, Mexico, 14-10-1979, 11449X
+2008, plata, -58, male, MERCEDES REYES Yulis Gabriel, Dominican Republic, 12-11-1979, 4627W
+2008, bronce, -58, male, CHU Mu-Yen, Taiwan, 14-03-1982, 1343Z
+2008, bronce, -58, male, NIKPAI Rohullah, Afghanistan, 15-06-1987, 15814P
+2008, oro, -68, male, SON Tae-Jin, Korea, 05-05-1988, 14665C
+2008, plata, -68, male, LOPEZ Mark, United States of America, 25-04-1982, 4248X
+2008, bronce, -68, male, SUNG Yu-Chi, Taiwan, 16-01-1982, 6843K
+2008, bronce, -68, male, TAZEGUL Servet, Turkey, 26-09-1988, 11834C
+2008, oro, -80, male, SAEI BONEHKOHAL Hadi, Iran, 10-06-1976, 6051T
+2008, plata, -80, male, SARMIENTO Mauro, Italy, 10-04-1983, 6198M
+2008, bronce, -80, male, ZHU Guo, China, 14-06-1985, 16278A
+2008, bronce, -80, male, LOPEZ Steven, United States of America, 09-11-1978, 4251A
+2008, oro, +80, male, CHA Dong-Min, Korea, 24-08-1986, 12672E
+2008, plata, +80, male, NIKOLAIDIS Alexandros, Greece, 17-10-1979, 5059N
+2008, bronce, +80, male, CHILMANOV Arman, Kazakhstan, 20-04-1984, 8756C
+2008, bronce, +80, male, CHUKWUMERIJE Chika, Nigeria, 30-12-1983, 12644T
+2008, oro, -49, female, WU Jingyu, China, 01-02-1987, 13090E
+2008, plata, -49, female, PUEDPONG Buttree, Thailand, 16-10-1990, 15275E
+2008, bronce, -49, female, MONTEJO POLL Daynelli, Cuba, 26-11-1984, 13954S
+2008, bronce, -49, female, CONTRERAS RIVERO Dalia, Venezuela, 20-09-1983, 8790Y
+2008, oro, -57, female, LIM Su-Jeong, Korea, 20-08-1986, 10366X
+2008, plata, -57, female, TANRIKULU Azize, Turkey, 09-02-1986, 11634P
+2008, bronce, -57, female, ZUBCIC Martina, Hrvatska, 03-06-1989, 13118S
+2008, bronce, -57, female, LOPEZ Diana, United States of America, 07-01-1984, 4239H
+2008, oro, -67, female, HWANG Kyung-Seon, Korea, 21-05-1986, 10963F
+2008, plata, -67, female, SERGERIE Karine, Canada, 01-02-1985, 10968N
+2008, bronce, -67, female, EPANGUE Gwladys, France, 15-08-1983, 1875Z
+2008, bronce, -67, female, SARIC Sandra, Hrvatska, 08-05-1984, 8928D
+2008, oro, +67, female, ESPINOZA Maria del Rosario, Mexico, 29-11-1987, 12614D
+2008, plata, +67, female, SOLHEIM Nina, Norway, 04-08-1979, 6643Y
+2008, bronce, +67, female, STEVENSON Sarah, United Kingdom of Great Britai, 30-03-1983, 6760B
+2008, bronce, +67, female, SILVA FALAVIGNA Natalia, Brazil, 09-05-1984, 8929E
+2004, oro, -58, male, CHU Mu-Yen, Taiwan, 14-03-1982, 1343Z
+2004, plata, -58, male, SALAZAR BLANCO Oscar, Mexico, 03-11-1977, 6084M
+2004, bronce, -58, male, SALAH BAYOUMI Tamer, Egypt, 12-04-1982, 6080F
+2004, oro, -68, male, SAEI BONEHKOHAL Hadi, Iran, 10-06-1976, 6051T
+2004, plata, -68, male, HUANG Chih-Hsiung, Taiwan, 16-10-1976, 2927G
+2004, bronce, -68, male, SONG Myeong-Seob, Korea, 29-06-1984, 10331A
+2004, oro, -80, male, LOPEZ Steven, United States of America, 09-11-1978, 4251A
+2004, plata, -80, male, TANRIKULU Bahri, Turkey, 16-03-1980, 6909Y
+2004, bronce, -80, male, KARAMI Yousef, Iran, 22-03-1983, 3297W
+2004, oro, +80, male, MOON Dae-Sung, Korea, 03-09-1976, 4780X
+2004, plata, +80, male, NIKOLAIDIS Alexandros, Greece, 17-10-1979, 5059N
+2004, bronce, +80, male, GENTIL Pascal, France, 15-05-1973, 2263H
+2004, oro, -49, female, CHEN Shih-Hsin, Taiwan, 16-11-1978, 1240N
+2004, plata, -49, female, LABRADA DIAZ Yanelis Yuliet, Cuba, 08-10-1981, 10264M
+2004, bronce, -49, female, BOORAPOLCHAI Yaowapa, Thailand, 06-09-1984, 10280G
+2004, oro, -57, female, JANG Ji-Won, Korea, 30-08-1979, 8612N
+2004, plata, -57, female, ABDALLAH Nia, United States of America, 24-01-1984, 12716N
+2004, bronce, -57, female, SALAZAR BLANCO Iridia, Mexico, 14-06-1982, 6083K
+2004, oro, -67, female, WEI Luo, China, 23-05-1983, 10973W
+2004, plata, -67, female, MISTAKIDOU Elisavet, Greece, 14-08-1977, 4709C
+2004, bronce, -67, female, HWANG Kyung-Seon, Korea, 21-05-1986, 10963F
+2004, oro, +67, female, CHEN Zhong, China, 22-11-1982, 1255G
+2004, plata, +67, female, BAVEREL Myriam, France, 14-01-1981, 621Z
+2004, bronce, +67, female, CARMONA Adriana, Venezuela, 03-12-1972, 1094X
+2000, oro, -58, male, MOUROUTSOS Michalis, Greece, 29-02-1980, 4828H
+2000, plata, -58, male, ESPARZA Gabriel, Spain, 31-03-1973, 1919F
+2000, bronce, -58, male, HUANG Chih-Hsiung, Taiwan, 16-10-1976, 2927G
+2000, oro, -68, male, LOPEZ Steven, United States of America, 09-11-1978, 4251A
+2000, plata, -68, male, SIN Joon-Sik, Korea, 13-01-1980, 8020H
+2000, bronce, -68, male, SAEI BONEHKOHAL Hadi, Iran, 10-06-1976, 6051T
+2000, oro, -80, male, MATOS FUENTES Angel Valodia, Cuba, 24-12-1976, 4519C
+2000, plata, -80, male, EBNOUTALIB Faissal, Germany, 20-11-1970, 1777W
+2000, bronce, -80, male, ESTRADA GARIBAY Victor, Mexico, 28-10-1971, 1931Y
+2000, oro, +80, male, KIM Kyung-Hun, Korea, 15-07-1975, 3537K
+2000, plata, +80, male, TRENTON Daniel, Australia, 01-03-1977, 7119Z
+2000, bronce, +80, male, GENTIL Pascal, France, 15-05-1973, 2263H
+2000, oro, -49, female, BURNS Lauren, Australia, 08-06-1974, 1005D
+2000, plata, -49, female, MELENDEZ Urbia, Cuba, 30-07-1972, 4600H
+2000, bronce, -49, female, CHI Shu-Ju, Taiwan, 27-11-1982, 1271D
+2000, oro, -57, female, JUNG Jae-Eun, Korea, 11-01-1980, 3182T
+2000, plata, -57, female, TRAN Hieu Ngan, Viet Nam, 26-01-1974, 7099Y
+2000, bronce, -57, female, BIKCIN Hamide, Turkey, 24-01-1978, 768S
+2000, oro, -67, female, LEE Sun-Hee, Korea, 21-10-1978, 4072P
+2000, plata, -67, female, GUNDERSEN Trude, Norway, 06-06-1977, 2506D
+2000, bronce, -67, female, OKAMOTO Yoriko, Japan, 06-09-1971, 5165C
+2000, oro, +67, female, CHEN Zhong, China, 22-11-1982, 1255G
+2000, plata, +67, female, IVANOVA Natalya, Russian Federation, 01-09-1971, 3026N
+2000, bronce, +67, female, BOSSHART Dominique, Canada, 07-10-1977, 863S

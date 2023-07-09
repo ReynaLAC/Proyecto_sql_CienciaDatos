@@ -1,0 +1,1496 @@
+Id_coach, gender, name, country, birthday, points
+1, male, SAHIN Ali, Turkey, 02-06-1967,13590
+2, male, FARGAS Ireno, Spain, 03-11-1961,12821
+3, female, BENITEZ MORALES Elena, Spain, 26-10-1966,6808.5
+4, male, MARQUEZ SANCHEZ Jose Jesus, Spain, 19-05-1973,6190
+5, male, SOLIS Juan, Spain, 11-11-1111,5923
+6, male, MEIJER Henk, Netherlands, 22-07-1959,5637
+7,, KO Tae-Jeong, Korea, 11-11-1111,4725
+8, male, STREIF Georg, Germany, 21-12-1961,4723
+9, male, MARTIN Francisco, Spain, 11-11-1111,4588
+10,, ZOLGHADRI Gholam Hassan, Iran, 27-08-1960,4580
+11, male, CARREIRA CORREDOIRA Marcos, Spain, 28-10-1974,4326
+12, male, WUNDERLICH Holger, Germany, 24-04-1974,4101
+13,, KARIMI Morteza, Iran, 11-11-1111,3963
+14, male, SCHEITERBAUER Marco, Germany, 11-03-1974,3811.5
+15,, LEE Kyu-Hong, Spain, 11-11-1111,3551
+16,, PARK Soo-Nam, Korea, 11-11-1111,3510
+17,, BANG Young-In, Mexico, 14-07-1973,3269
+18,, IVANOV Vadim, Russian Federation, 14-01-1970,3248
+19,, CHOI Young-Seok, Korea, 30-04-1974,3206
+20, male, MOGHANLOO Bijan, Iran, 21-10-1969,3099
+21, male, KHAIRY Amr, Egypt, 16-02-1966,3034
+22, male, KOHLOFFEL Markus, Germany, 25-01-1971,2873.8
+23, male, MORENO Juan Miguel, United States of America, 01-04-1971,2843
+24,, KIM Sae-Hyok, Korea, 11-11-1111,2789
+25, male, MEHMANDOOST Reza, Iran, 31-01-1966,2624.5
+26, male, MEHMANDOOST Reza, Iran, 31-01-1966,2619.5
+27, male, CAMACHO Miguel, Dominican Republic, 14-07-1966,2605
+28, male, LOPEZ Jean, United States of America, 31-08-1973,2588.3
+29, male, SAENZ MILLER Nelson, Cuba, 18-11-1965,2582
+30,, PARK Young-Ghil, Korea, 24-07-1941,2423
+31, male, SHALABY Mahmoud, Egypt, 15-01-1973,2322
+32,, ZAVAR Mohammad Reza, Iran, 11-11-1111,2290
+33, male, JOHANSEN Bjarne, Denmark, 24-11-1963,2257
+34, male, ESTEVES Carlos, Germany, 16-06-1960,2245
+35,, FONG Edward, Canada, 04-11-1980,2154
+36,, SHIN In-Shik, Korea, 11-11-1111,2151
+37, male, WAGNER Josef, Germany, 17-06-1951,1979
+38, male, YOON Soon-Cheul, Korea, 19-07-1967,1951.8
+39, male, EL-EMARY Farag, Egypt, 03-02-1962,1947
+40,, ALCAZAR CORONA Rafael, Spain, 11-11-1111,1849.3
+41,, HERRANZ MARTIN Miguel Angel, Spain, 02-04-1964,1811.8
+42, male, SALAZAR BLANCO Oscar, Mexico, 03-11-1977,1762
+43, male, NOLANO Claudio, Italy, 22-09-1975,1670
+44, male, KARRENBERG Georg, Germany, 11-07-1946,1599
+45, male, LEE Dae-Sung, United States of America, 06-08-1959,1588.3
+46, male, DAVIDOV Adi, Israel, 27-07-1975,1528
+47,, KO Eui-Min, Korea, 11-11-1111,1479
+48, male, PEZZOLLA Marcello, Italy, 31-10-1965,1472
+49, male, ACHARKI Aziz, Germany, 27-03-1972,1440
+50,, CHONG Ki-Young, Korea, 11-11-1111,1439
+51, male, GARTNER Helmut, Germany, 05-07-1960,1431
+52, male, ABDOLLAHI Vahid, Iran, 21-03-1978,1424.5
+53, male, OUDE LUTTIKHUIS Ben, Netherlands, 13-06-1952,1406
+54, male, TOLEDO AROCA Antonio, Spain, 08-06-1977,1390.5
+55,, PINERD Philippe, France, 29-01-1964,1341
+56, male, LIM Shin-Wook, Canada, 11-10-1973,1334
+57, male, BENITO DIAZ Jesus, Spain, 23-06-1962,1284
+58,, ADAMSONS Peter, United Kingdom of Great Britai, 23-05-1962,1272
+59,, KOMRANI NAJAFABADI Mahroo, Iran, 17-04-1980,1245
+60,, LEE Hyo-Joo, Korea, 13-03-1962,1229
+61, male, JOVIC Dragan, Serbia and Montenegro, 21-05-1969,1226
+62, male, LEE Sang-Chul, United States of America, 08-05-1948,1202
+63,, DEMESA Rafael, Spain, 11-11-1111,1166
+64, male, BLECIC Branimir, Hrvatska, 15-03-1981,1141.8
+65,, PINJUH Dragan, Hrvatska, 11-11-1111,1140.8
+66,, MOHAMMADIAN Masoumeh, Iran, 11-11-1111,1138.8
+67, male, MELIS Luigi, Netherlands, 11-11-1111,1136
+68, male, BIBAK ASL Mehdi, Iran, 20-07-1978,1116.5
+69,, PISOTSKIY Sergey, Ukraine, 11-11-1111,1108
+70,, KIM Woo-Gu, Korea, 11-11-1111,1105
+71,, CHONG Chan, Korea, 11-11-1111,1105
+72, male, SHARABI Yechiam, Israel, 27-08-1978,1089.5
+73, male, DANESH Farjam, Iran, 11-11-1111,1082
+74,, JEONG Jin-Tae, Korea, 30-09-1969,1072
+75, male, MORA Jose, Dominican Republic, 11-11-1111,1059
+76, male, LEE Han-Won, United States of America, 18-05-1962,1044
+77,, YOON Jong-Wook, Korea, 11-11-1111,1025
+78, male, YAGIZ Kadir, Turkey, 03-11-1972,1021
+79,, LIM Han-Soo, , 11-11-1111,1021
+80, male, KLAIC Ivica, Hrvatska, 15-04-1964,1007
+81, male, EMERIK van Ad, Netherlands, 11-11-1111,1003
+82,, LEE Kae-Song, Korea, 11-11-1111,970
+83,, GUAN Jianmin, China, 06-05-1963,961
+84,, IRAZ Ismet, Turkey, 11-11-1111,939
+85,, GREEVINK Rob, Netherlands, 11-11-1111,938
+86, male, JUNG Dirk, Germany, 01-05-1956,934
+87, male, SALAZAR MOLINA Reynaldo, Mexico, 07-05-1955,932
+88,, ATALAR Mustafa, Austria, 11-11-1111,919
+89, male, DUJIC Mario, Serbia and Montenegro, 24-09-1975,914
+90,, PARK Jae, Canada, 19-04-1969,899.3
+91,, ZAGGL Roland, Austria, 03-02-1957,890
+92, male, MOURAD Raymond, Canada, 10-11-1964,880
+93,, SAFARPOUR DIZBANI Fatemeh, Iran, 21-09-1982,874.8
+94, female, CHEN Liren, China, 11-11-1111,872
+95,, MADDAH Minoo, Iran, 11-11-1111,870
+96, male, VUCENIK Andeljko, Hrvatska, 29-09-1958,861
+97, male, ASKARI Fariborz, Iran, 27-05-1972,848.5
+98,, DOROSTI Azam, Iran, 11-11-1111,848
+99,, NAEIMI Hossein Ali, Iran, 11-11-1111,838
+100,, IAKOVAKIS Apostolos, Greece, 11-11-1111,836.8
+101,, PARK Dong-Keun, Korea, 11-11-1111,830
+102,, PSHENICHNIKOV Pavel, , 11-11-1111,822
+103,, LEE Saeng-Kuk, Korea, 11-11-1111,800
+104,, SHIN Chung-Eui, Korea, 11-11-1111,800
+105, male, YILMAZ Nurettin, Germany, 10-12-1969,790.5
+106, male, PEJO Sammy, United States of America, 18-09-1969,784
+107, male, LEE Dong-Eon, Korea, 18-10-1986,772.3
+108,, GULEC Ozer, Germany, 15-06-1966,766
+109, male, VICTORIA ESPINOSA Alfonso, Mexico, 01-02-1985,761.5
+110, male, CHANG Jung-San, Taiwan, 02-01-1967,760.3
+111, female, KIM Yeon-Ji, Korea, 12-05-1981,754
+112,, TZIDIMOPOULOS, Kostas, 11-11-1111,753
+113,, ABDELALEEM Mohamed, , 11-11-1111,736
+114, male, JUNG Woo-Yong, Canada, 15-01-1963,731
+115,, ALDEMIR Ercan, Turkey, 11-11-1111,728.5
+116,, TOTH Balazs, Germany, 31-08-1983,726
+117, female, ZARE Neda, Iran, 11-11-1111,724
+118,, OH Joung-Joo, Greece, 11-11-1111,720
+119, male, LYONS Paul, Australia, 31-03-1969,714
+120,, JUN Chong-Ok, Korea, 11-11-1111,696.8
+121,, KRAMER Stig, Denmark, 11-11-1111,695
+122, male, REMARCK Patrice, Cote d'Ivoire, 17-03-1962,691
+123,, KIM Young-Soo, Korea, 11-11-1111,690
+124, male, ROSARIO del Manuel Mansour, Philippines, 11-05-1965,689
+125,, SUNG Ching-Hung, , 11-11-1111,687
+126, male, KIM Chul-Hoe, United States of America, 11-11-1111,681
+127,, GARCIA MARIN Rafael, , 11-11-1111,675
+128,, KIM Kil-Son, Korea, 11-11-1111,670
+129,, SONG Jo-Shin, Korea, 11-11-1111,670
+130,, PALKIN Alexey, Russian Federation, 07-05-1957,670
+131,, KANG Shin-Chul, Korea, 11-11-1111,668
+132,, ANDRADE Ricardo, Brazil, 11-11-1111,667
+133,, VIDAL Juan, Dominican Republic, 11-11-1111,659.3
+134,, YARI Mohammad Reza, Iran, 11-11-1111,651.5
+135,, KIM Hung-Ki, Venezuela, 09-04-1961,649
+136,, LITVINENKO Andriy, Ukraine, 02-03-1976,648
+137, male, RAMAZANOGLU Nusret, Turkey, 11-11-1111,645
+138,, JOHANSSON Kari, Finland, 11-11-1111,636
+139,, LAURA Veljko, Hrvatska, 12-08-1984,636
+140, male, KRICKA Niko, Switzerland, 19-01-1981,635
+141, male, STANCZAK Patrick, France, 16-11-1955,633
+142,, RAMOS Julio Cesar, , 23-01-1968,633
+143,, KIM In-Su, , 11-11-1111,630
+144,, KANG Son-Chong, Korea, 11-11-1111,630
+145, female, TAGHIPOUR TEHRANI Parvaneh Mohammad, Iran, 11-11-1111,622
+146,, BERNIER Alain, Canada, 23-01-1962,620.8
+147,, KIM Jong-Hae, Korea, 11-11-1111,605
+148, male, PEIXOTO Joaquim, Portugal, 14-05-1971,604
+149,, PARK Hyon-Chong, Korea, 11-11-1111,600
+150, female, LOVE Lynette, United States of America, 21-09-1957,595.8
+151,, HARTNETT Ross, Australia, 16-09-1960,595
+152, male, DUJIC Marin, Serbia and Montenegro, 24-09-1975,585.5
+153,, YU Su-Chol, Korea, 11-11-1111,585
+154,, AZARMEHR Maryam, Iran, 11-11-1111,583
+155,, KIM Seong-Hoon, Venezuela, 22-05-1972,581
+156, female, KITCHELL Jamie, Canada, 11-11-1111,571
+157,, SZTANTMAN Oury, , 11-11-1111,571
+158,, ONOFRE Jose Luis, , 11-11-1111,570
+159, male, GONZALES Alejandro, Argentina, 04-07-1962,569
+160,, KIM Yong-Hae, Korea, 11-11-1111,565
+161,, YILDIZ Fahrettin, , 11-11-1111,563.3
+162,, SOLTANI Morteza, Iran, 11-11-1111,559.3
+163, male, PILAVAKIS Andreas, Cyprus, 10-07-1960,559
+164,, GLAZOV Kostyantyn, Ukraine, 11-11-1111,559
+165,, FREZOULS Yvan, France, 11-03-1965,554.3
+166,, MOON Won-Jae, , 11-11-1111,545
+167,, PARK Sang-Man, , 11-11-1111,545
+168, male, LO PINTO Giovanni, Italy, 11-11-1111,543.8
+169, male, KHALIL Ali, Australia, 14-09-1982,540
+170,, TOMAS Toni, Hrvatska, 17-12-1980,535
+171, male, BLOCH Aviad, Israel, 13-05-1977,529.8
+172,, OH Jin-Keun, Korea, 11-11-1111,528
+173, male, BREGES Hrvoje, Hrvatska, 04-06-1976,527.8
+174,, LASHPANOV Alexander, Russian Federation, 12-04-1962,527
+175, male, ALVAREZ Julio, Mexico, 13-10-1968,521
+176,, LEE Soon-Man, , 11-11-1111,519
+177, male, SCHEFFLER Lukasz, Poland, 06-04-1983,517.5
+178,, CHOI Joon-Pyo, , 11-11-1111,514
+179,, KRNETIC Vlado, , 11-11-1111,514
+180, male, PUPPO Ricardo, Argentina, 06-06-1957,512
+181, male, DIGHOU Karim, Belgium, 23-08-1970,499
+182,, KANG Son-Chang, Korea, 11-11-1111,492
+183,, GOTSIS Alekos, Greece, 11-11-1111,491.3
+184, male, ALONSO Rosendo, Spain, 03-10-1978,490
+185, male, ROESEN Jesper, Denmark, 02-05-1975,489
+186,, LAKOMY Waldemar, Poland, 28-06-1974,488.5
+187,, CHEON Young-In, United States of America, 11-11-1111,488
+188, male, TRANSKI Plamen, Bulgaria, 26-06-1977,486
+189,, CHONG Kuk-Hwan, Korea, 11-11-1111,486
+190,, KANG Song-Chol, Korea, 11-11-1111,486
+191,, SAFARIAN Niloufar, Iran, 11-11-1111,483.5
+192,, BABAK Yuriy, Ukraine, 11-11-1111,482
+193, male, KIM Hyun-Il, Korea, 17-04-1966,480
+194, male, KIM Bong-Keun, Korea, 11-11-1111,480
+195,, BUN Won-Chae, Korea, 11-11-1111,480
+196,, LIOU Ching-Wen, , 11-11-1111,477
+197,, CHO Lim-Hyeong, , 11-11-1111,476
+198, male, TSIOULOS Nicholas, Australia, 11-11-1111,473
+199, male, AMHAND Abdenbi, Morocco, 20-12-1958,466
+200,, STANZMANN Oury, , 11-11-1111,465
+201,, LEE Seung-Kuk, Korea, 11-11-1111,465
+202, male, NASERI Vahid, Iran, 11-11-1111,463
+203, male, SMIRNOV Alexander, Russian Federation, 14-08-1995,461
+204, male, TAZEGÜL Servet, Turkey, 26-09-1988,457
+205,, KWON Hyok-Sung, Korea, 11-11-1111,456
+206, male, SALAH BAYOUMI Tamer, Egypt, 12-04-1982,450
+207,, LIKHADZLEVSKI Anatoli, , 08-05-1967,450
+208,, PANTAR Dusan, , 11-11-1111,448
+209,, LU Xiudong, , 22-01-1971,447.3
+210, male, KIM Jung-Ho, Korea, 11-11-1111,446
+211,, KANG Gu-Hwan, Korea, 11-11-1111,446
+212, female, LIMAS Arlene, United States of America, 09-02-1966,444
+213, male, TARABURELLI Gabriel Alberto, Argentina, 21-04-1981,442
+214,, MOHAMMADNEJAD Mahbobeh, Iran, 11-11-1111,441
+215, male, CICEK Musa, Germany, 19-09-1967,440.3
+216, male, PADROS VEGA Juan Jose, Andorra, 24-07-1971,440
+217,, KHAN Stanislav, Russian Federation, 10-08-1974,440
+218, male, JANG Hyuk, Korea, 03-10-1969,438
+219,, ABDULLAYEV Mammad, Azerbaijan, 11-11-1111,438
+220, male, ABDULLAYEV Gunduz, Azerbaijan, 20-10-1972,436
+221,, JANGJOU Yousef, Iran, 11-11-1111,434
+222,, FILIPPA Carlos, , 11-11-1111,426
+223,, SEOK No-Sang, , 11-11-1111,426
+224,, DIJK van Frans, Netherlands, 14-07-1956,426
+225,, WANG Runqian, , 11-11-1111,423
+226,, KIM Maeng-Kon, Korea, 11-11-1111,415
+227, male, IMAMALIEV Alekper, Azerbaijan, 03-12-1966,412
+228,, STIPEK Svatopluk, , 17-03-1973,412
+229,, MOON Dai-Won, , 11-11-1111,410
+230,, ALAVI Mohammad, Iran, 11-11-1111,409.5
+231, male, AFLAKI KHAMSEH Madjid, Iran, 26-08-1973,409
+232, male, CHOU Kuei-Ming, Taiwan, 24-04-1971,407
+233,, SMAILI Hassan, , 05-11-1965,405
+234,, LEE Hong-Gu, Korea, 11-11-1111,405
+235,, BORJI Nasser, Iran, 11-11-1111,400.5
+236,, ISIK Recep, Turkey, 06-01-1962,400
+237,, KIM Chong-Ki, Korea, 11-11-1111,398
+238, male, PIRCHMOSER Daniel, Austria, 10-02-1957,397
+239,, SOOTHO Alex, Australia, 11-11-1111,397
+240,, KIM Young-Seung, Korea, 11-11-1111,395
+241,, BOSHAGH Mohammad, Iran, 11-11-1111,394.3
+242,, YAKOVLEV Andriy, Ukraine, 25-11-1968,393
+243,, KHANLARKHANI Payam, Iran, 11-11-1111,393
+244,, MIN Hyung-Keun, , 11-11-1111,392
+245,, KIM Jin-Beom, Nigeria, 18-08-1965,392
+246, male, DELL´ ORSO Alf, Australia, 21-04-1959,387
+247,, ROBINSON Rea, , 17-09-1957,387
+248,, KIM Uh-Gyu, Korea, 11-11-1111,387
+249,, COOK Luke, United Kingdom of Great Britai, 21-07-1989,387
+250,, PIMANTOAN P-, , 11-11-1111,383
+251, male, KHODA MORADI Nader, Iran, 11-11-1111,380
+252, female, KONG Fantao, China, 13-03-1978,380
+253, male, PODOLYAN Viktor, Ukraine, 23-12-1976,377
+254, male, BASILE Leonardo, Italy, 12-05-1983,376
+255,, PYCIARZ Tomasz, Poland, 07-11-1973,376
+256, female, ALONSO (KUSCU) Gülsah, Turkey, 15-09-1980,375.5
+257,, BUNDELI Rene, Switzerland, 27-03-1945,374
+258,, LEE Chong-Soo, , 11-11-1111,372
+259,, GERMAIN Paul, Canada, 02-07-1962,372
+260, male, WINKLER Boris, Germany, 30-07-1985,369.3
+261,, FATAHI Rashid, Iran, 11-11-1111,368
+262, male, VENERACION Victor Emanuel, Philippines, 26-10-1966,356
+263, male, FARIAS BERNAL Arturo, , 11-11-1111,351
+264, male, ZAS Francisco, Spain, 19-02-1972,350
+265,, RODRIGUEZ SEGURA Tomas Santiago, Iceland, 02-01-1962,350
+266,, YU Hong-Hap, , 11-11-1111,350
+267,, SADURSKI Robert, Poland, 11-11-1111,349
+268, male, KARLSSON Patrik, Sweden, 28-01-1972,344
+269,, LEE Seung-Tae, Korea, 11-11-1111,344
+270,, POOS Jason, United States of America, 11-11-1111,342
+271,, JANG Yong-Gyu, , 11-11-1111,341
+272,, KABDRASHEV Mustakhim, Kazakhstan, 11-11-1111,339
+273,, PALERMO Jose, , 11-11-1111,338
+274,, LABORDA Rodolfo, , 11-11-1111,337
+275,, CHOUNG Young-Su, Canada, 09-12-1954,336.3
+276,, KIM Byung-Min, , 11-11-1111,336
+277, male, CABANATAN Jerome, Canada, 29-03-1982,333.3
+278,, IZQUIERDO Antonio, , 11-11-1111,331
+279,, ISMAILI Hassan, , 11-11-1111,330
+280,, TKIZA Maati, , 11-11-1111,330
+281,, KIM Hyun-Sung, , 11-11-1111,329
+282,, PARK Kye-Hee, , 11-11-1111,329
+283,, ETCHEGARAY Nestor, , 11-11-1111,328
+284, male, ZOHIN Hans, France, 17-02-1980,326
+285,, KARABAY Ugur, , 11-11-1111,326
+286,, WHITE Robert, Canada, 11-11-1111,325
+287,, GATO Pedro, Cuba, 11-11-1111,325
+288, male, TRENTON Daniel, Australia, 01-03-1977,324
+289,, LEE Moon-Ho, Korea, 11-11-1111,320
+290, male, SAYED Osama, Egypt, 27-11-1973,320
+291,, KIM Yong-In, Korea, 11-11-1111,319
+292, male, KOVACIC Predrag, Serbia, 30-11-1974,317.8
+293,, MAKAR Zlatko, , 23-04-1961,317
+294,, PARK Chang-Dok, Korea, 11-11-1111,317
+295,, DANIELYAN Gevorg, Armenia, 23-02-1971,316
+296,, CHON Chong-Woo, Korea, 11-11-1111,315
+297,, KRNETIC Miodrag, Slovenia, 11-11-1111,314
+298, male, RACHEV IVANOV Slavcho, Bulgaria, 15-06-1981,312.8
+299,, KOSTIC Dinko, Hrvatska, 11-11-1111,312.8
+300,, WANG Chieh-Jen, Taiwan, 11-11-1111,310
+301, male, RASHID Farooq, Denmark, 31-05-1970,306
+302,, KARIMI Hossein, Iran, 11-11-1111,306
+303, male, NASSR AZADANY Alireza, Iran, 21-09-1985,305
+304,, BRAZIUNAS Zymantas, Lithuania, 12-12-1974,304
+305,, EFRAIMIDIS Panteleimon, Greece, 31-08-1969,304
+306, male, CRKVENCIC Danijel, Australia, 29-09-1968,302
+307, male, SAWYER Chris, United Kingdom of Great Britai, 10-09-1958,299
+308,, DUARTE William, Colombia, 11-11-1111,299
+309, male, TRAN Quang Ha, Viet Nam, 26-10-1971,298
+310,, PARK Hyong-Chong, Korea, 11-11-1111,297
+311,, JY Yong-Seok, , 11-11-1111,296
+312,, KIM Bum-Soo, , 11-11-1111,296
+313, male, ZULFUGAROV Sabuhi, Azerbaijan, 25-08-1981,295
+314,, PARASIDIS Kyriakos, Greece, 11-11-1111,293
+315, male, WRIGHT DIAZ John, Spain, 24-05-1965,292
+316,, WHANG Sonny, , 11-11-1111,289
+317,, SAOUDI Abdennabi, Morocco, 01-01-1966,289
+318,, JUN Shi-Jong, Korea, 11-11-1111,287
+319,, CAVALLI Melchiorre, , 11-11-1111,285
+320,, AU Colby, New Caledonia, 19-08-1977,285
+321, male, KNUTH Sten, Denmark, 11-11-1111,284
+322, male, EMERIK van Walter, Netherlands, 11-11-1111,283
+323,, EPOV Oleg, , 11-11-1111,282
+324, male, PARK Bong-Kwon, Korea, 20-02-1968,280.3
+325, male, CONSTANZO di Geremia, Italy, 19-12-1960,280
+326, female, CORSI Cristina, Italy, 23-04-1976,280
+327,, YOUNG Shin-Boo, , 15-12-1944,280
+328, male, CARNELI Ryan, Australia, 11-10-1985,279
+329,, KHALIFEH Nemat, Iran, 11-11-1111,279
+330,, HOSSEINZADEH Mohammad, Iran, 11-11-1111,279
+331, male, CHO Sung-Ho, Korea, 05-01-1970,277
+332, male, YAMASHITA Hironobu, Japan, 05-10-1970,277
+333,, SEO In-Oh, , 11-11-1111,277
+334, male, TADJOU Attada, Cote d'Ivoire, 06-08-1963,275
+335,, HONG Eun-Seok, Korea, 11-11-1111,275
+336,, SULTANOV Myrzagali, Kazakhstan, 11-11-1111,275
+337,, MEZI Georges, Cote d'Ivoire, 30-07-1963,275
+338, male, DANESH Feisal, Iran, 11-11-1111,274
+339, male, DOSSANTOS Tino, Canada, 22-01-1969,274
+340,, SINISALO Kim, , 11-11-1111,273
+341, male, TARHANEN Mika, Finland, 13-11-1973,271
+342,, KIM Hyon-Il, Korea, 11-11-1111,270
+343,, HAM Chun, Korea, 11-11-1111,270
+344,, SAFARPOUR-REIHANEH FOULADI Fatemeh, Iran, 23-08-1981,270
+345,, CHUNG Tang-Mao, , 11-11-1111,269
+346,, JORGENSEN Michael, Norway, 11-11-1111,269
+347,, LEE Pen-Shan, , 11-11-1111,269
+348,, CHUNG Jin-Song, , 11-11-1111,267
+349,, PARK Hyen-Soo, , 11-11-1111,265
+350,, BOU Juan, , 11-11-1111,265
+351,, LEE Kyu-Seok, Korea, 11-11-1111,264
+352,, CHONG Shin-Jong, Korea, 11-11-1111,264
+353,, JAMALKANOV Elnur, , 14-02-1978,260
+354,, TU Chun-Chin, , 11-11-1111,260
+355, male, TORTOSA ALAMEDA Jesus, Spain, 13-12-1964,258
+356, female, KHALAGZADEH Shohreh, Iran, 15-04-1981,257.5
+357,, KARIMOV Gudrat, , 11-11-1111,255
+358,, KIM Hong-Kong, , 11-11-1111,255
+359,, SZTANTMAN Bertrand, France, 11-11-1111,255
+360, male, ALONSO RIOS Angel, Spain, 11-05-1970,254
+361, male, JANKOVSKY Viktor, Czech Republic, 16-08-1988,253
+362, male, KIM Min-Soo, Korea, 11-11-1111,251
+363,, SOUNG D--A-, , 11-11-1111,251
+364, female, BACCO Carla, Canada, 11-11-1111,250.5
+365, male, MORTENSEN Tommy, Denmark, 11-11-1111,250
+366, male, PECHLIVANIS Ioakim, Greece, 11-11-1111,250
+367,, RASTAD Neda, Iran, 11-11-1111,249
+368,, MAZUR Vladislav, Moldova, 11-11-1111,248
+369,, JUNG Ki-Soo, , 11-11-1111,246
+370, male, DONATH Marcell, Hungary, 21-04-1974,245
+371,, HA Kee-Seong, , 11-11-1111,245
+372,, ESCOTO Adalberto, Dominican Republic, 11-11-1111,245
+373, male, ZINELIS Theodoros, Greece, 23-03-1974,245
+374,, NANSEN Jorn, , 11-11-1111,244
+375,, NAM Oleg, Ukraine, 26-07-1973,243.5
+376,, TAAFFE Robert, Ireland, 07-11-1981,243
+377,, KRSTIC Borislav, Serbia, 20-07-1976,242.8
+378,, RAHIMI Asghar, Iran, 11-11-1111,242.5
+379, male, FUJI Scott, United States of America, 11-11-1111,242.3
+380,, KIM Ho-Tae, Korea, 11-11-1111,240
+381,, KIM Bong, Korea, 11-11-1111,240
+382,, CHEN Der-Hsiung, , 11-11-1111,237
+383,, FORERO Rene, Colombia, 31-07-1968,236.3
+384, female, BAVEREL Myriam, France, 14-01-1981,235
+385,, YOUSEFI Mehrdad, Iran, 11-11-1111,232.3
+386,, KREJCI Pavel, Czech Republic, 11-11-1111,232
+387,, LEE Hwan-Uk, Korea, 11-11-1111,231
+388,, GAMBLUCH Leonardo, Argentina, 03-09-1973,230
+389,, AGHAJANPOUR Raziyeh, Iran, 11-11-1111,229.8
+390,, CAKIR Nafiz, , 11-11-1111,228
+391,, KIM Jong-Ki, Korea, 11-11-1111,228
+392,, PAOWONGSAKUL Tin, , 18-09-1970,227
+393,, MEYER Larry, Netherlands, 11-11-1111,226.8
+394,, WILLIAMS Mark, , 11-11-1111,226.3
+395, male, WARWICK Richard Jaydes, United States of America, 14-09-1957,225
+396,, BARE Trish, , 11-11-1111,225
+397,, HOSSEINI Narges, Iran, 11-11-1111,225
+398, male, ZARIC Dragoslav, Slovenia, 21-07-1975,224
+399,, KIM Yoon-Kak, , 11-11-1111,223
+400,, KO Bong-Soo, , 11-11-1111,223
+401, male, SHAKER Hany, Egypt, 01-10-1975,222
+402, male, KUUSJARVI Marcos, Finland, 09-09-1960,222
+403,, PETROVIC Goran, , 11-11-1111,221
+404,, MAZRAANI Sami, , 11-11-1111,220.3
+405,, JI Yong-Seou, , 11-11-1111,220
+406,, RYOO Byung-Kwan, , 11-11-1111,220
+407,, KIM Kyong-Hoon, Korea, 11-11-1111,216
+408,, LUNG Soung-Kae, , 11-11-1111,215
+409,, MALDONADO Pedro, , 11-11-1111,215
+410,, WANG Zhijie, China, 11-11-1111,215
+411,, CHAE Chong-Ki, Korea, 11-11-1111,215
+412,, ANANCHENKO Andrey, Russian Federation, 11-11-1111,214
+413,, KAZERIS M-, , 11-11-1111,213
+414,, DIAZ GONZALEZ German, Mexico, 11-11-1111,212.5
+415, male, ALOISIO Mikael, France, 27-06-1976,211
+416, male, LEE Kyung-Ho, Korea, 11-11-1111,210
+417,, BA Mamadou, , 11-11-1111,210
+418,, DIAO Cherif Mohamed, , 11-11-1111,210
+419,, GAN Mdon-Sup, Korea, 11-11-1111,210
+420,, GUZMAN Marino, , 11-11-1111,210
+421, male, SALM Peter, Netherlands, 11-11-1111,208
+422, male, WOZNICKI Markus, Germany, 15-03-1966,208
+423,, GARCIA Osvaldo, Dominican Republic, 11-11-1111,208
+424,, KUMAR Prem, India, 22-04-1975,206
+425, male, SANCHEZ Yolman, Colombia, 11-11-1111,205
+426,, JU Shin-Kyu, , 11-11-1111,205
+427,, MEDINA Jorge, Ecuador, 11-11-1111,205
+428,, K- Byung-Ok, Korea, 11-11-1111,205
+429, male, BOUEDO Philipe, France, 06-05-1962,204
+430,, LEE Yong-Seon, France, 27-02-1948,202.8
+431,, CHOI Won-Suk, , 11-11-1111,200
+432,, JEON Jeong-Bae, , 11-11-1111,200
+433, male, LEE In-Jae, Korea, 11-11-1111,198
+434,, FAILY Farzad, , 11-11-1111,197
+435,, JANG Jong-Won, Korea, 11-11-1111,197
+436,, GALE Russ, United States of America, 11-11-1111,197
+437, male, MIHALCHEV Hristo, Bulgaria, 25-02-1974,196
+438, male, BHANDARI Surendra, India, 27-07-1985,196
+439,, PERNITSCH Rene, Austria, 18-09-1980,196
+440,, BHAVSAR Naresh Kumar, India, 01-11-1970,195
+441,, DIOVOL Alioune, Senegal, 19-06-1979,194
+442, male, AFSHAR BAKESHLOU Hadi, Iran, 20-08-1980,193.8
+443,, KIM Tae-Hyung, , 11-11-1111,193
+444,, ROLEA Radu, , 11-11-1111,193
+445,, PARK Yeon-Hwan, , 11-11-1111,192.5
+446,, PUN Yam Bahadur, Nepal, 11-11-1111,191
+447, male, LUKE Victor, Canada, 11-11-1111,190
+448,, CARDENAS Roberto, , 11-11-1111,190
+449,, PETERS Mario, Netherlands, 11-11-1111,189
+450,, SAMANDZHIYA Lesik, Ukraine, 15-11-1958,188
+451, male, BRAGINSKI Mark, Israel, 19-05-1986,188
+452,, LEUNG Lee-Shan, , 11-11-1111,187
+453,, GUET Karim, France, 11-11-1111,187
+454,, AMMAR Rachid, France, 11-11-1111,187
+455, female, LEE Moon-Ju, Korea, 11-11-1111,185
+456,, LIRA Emilio, , 05-04-1976,185
+457,, VICTOR John, Nigeria, 22-05-1977,185
+458,, SOBIROV Pakhlavonjon, Uzbekistan, 11-11-1111,185
+459,, CHEN Liang, , 11-11-1111,184
+460, female, CHIN Yu-Fang, Taiwan, 19-08-1968,183
+461, male, FAIRHURST Richard, United Kingdom of Great Britai, 11-11-1111,183
+462,, PARK Jong-Su, Korea, 11-11-1111,182
+463, female, KATALINIC Lidija, Hrvatska, 17-06-1975,181
+464,, KIM Joseph, , 11-11-1111,180
+465,, LU Fan, , 11-11-1111,180
+466,, CHEN Chiou-Hwa, , 11-11-1111,180
+467,, NELSON Sherman, United States of America, 23-10-1965,179
+468,, YAO Qiang, , 11-11-1111,178
+469,, VELJKO Laura, Hrvatska, 11-11-1111,178
+470, male, SHOROV Rashid, Russian Federation, 11-11-1111,177
+471,, KONDRATIEV Sergey, , 11-11-1111,177
+472,, LOIZOU Panikos, , 11-11-1111,177
+473,, MALEKI Hasan, Iran, 11-11-1111,177
+474,, RATAD Seyedeh Neda, Iran, 11-11-1111,177
+475,, LEE Han, , 11-11-1111,176
+476,, MATINFAR Abdolrasoul, Iran, 11-11-1111,175
+477,, LAY BLANCO Pedro, , 11-11-1111,174
+478,, LEE Ki-Su, , 11-11-1111,174
+479,, PETRENKO Igor, Ukraine, 11-11-1111,174
+480,, ZENKIN Boris, , 11-11-1111,173
+481,, PYROZHENKO Oleksandr, Ukraine, 11-11-1111,173
+482,, PASQUALE de Frank, Australia, 16-04-1970,171.5
+483, male, SALIM Joseph, Hungary, 15-05-1967,171
+484,, KIM Il-Hoi, , 11-11-1111,170
+485,, HOU Wei-Hsing, Taiwan, 11-11-1111,170
+486, male, IRAN Shah, Norway, 09-11-1963,169
+487, female, PAPARONI Sabrina, Italy, 11-11-1111,168
+488, male, GOUVEIA Arlindo, Venezuela, 22-12-1969,167
+489, male, NWAISER Tawfiq, Jordan, 23-11-1965,165
+490, male, SALIM Gergely, Hungary, 01-04-1972,165
+491, male, SOILA Joonas, Finland, 07-08-1972,165
+492, male, NYUKURI Rashid, Kenya, 11-11-1111,165
+493,, KHAEMBA Philip, , 11-11-1111,165
+494,, MILLAN Wilfredo, , 11-11-1111,164
+495,, BAGLIVO Roberto, Italy, 11-11-1111,164
+496,, THORNTON Dan, Canada, 11-11-1111,163
+497, male, DAMASO Nuno, Switzerland, 17-01-1965,162
+498, female, SHIN Dong-Sun, Korea, 25-01-1975,161
+499,, CHIN Yun-Sup, , 11-11-1111,160.3
+500,, AAD Bassem, Lebanon, 03-01-1968,160
+501,, PARK Jae-Cheon, , 11-11-1111,160
+502,, LEE Yong-Chul, , 11-11-1111,159
+503,, KAUR Meera, India, 11-11-1111,159
+504,, GORET Steve, , 11-11-1111,158
+505,, KIM Yang-Woong, , 11-11-1111,158
+506,, MARK Reinhard, , 11-11-1111,158
+507, female, SINGER Regina, Austria, 11-10-1964,157.5
+508,, AKKOUH Moustapha, Belgium, 11-11-1111,157
+509, male, DOMADOR Wilmen, Venezuela, 19-02-1974,156
+510, male, FUENMAYOR Jesus, Venezuela, 11-11-1111,156
+511,, IM Shin-Cho, Korea, 11-11-1111,156
+512, male, VU Anh Tuan, Viet Nam, 17-09-1980,155
+513,, YOUN In-Bang, , 11-11-1111,155
+514,, COOK David, Norway, 15-10-1975,155
+515,, KIM Kil-Tae, Viet Nam, 25-08-1981,155
+516, male, GHOLAMZADEH Omid, Iran, 19-07-1982,154
+517,, OGUZ Mikael, Norway, 30-10-1976,154
+518,, KIM Boo-Yang, , 11-11-1111,153.8
+519,, ROZINSZKY Andrew, Australia, 27-08-1968,153.3
+520, male, MARK Manuel, Austria, 10-11-1985,153
+521,, LEAFE Ian, , 11-11-1111,153
+522, male, MAMMADOV Zahid, Azerbaijan, 16-09-1981,152
+523,, KI Hong-Seong, , 11-11-1111,151
+524,, DRAGANOV Georgi, , 11-11-1111,150
+525,, ROJAS Danny, Dominican Republic, 20-03-1976,150
+526,, DANDOBI Yacouba, Niger, 03-12-1973,150
+527,, MORALES Jesus, , 11-11-1111,149
+528,, KI Hong-Seung, Korea, 11-11-1111,149
+529,, KANG Dong-Heon, Korea, 11-11-1111,149
+530,, HUR In-Young, Korea, 11-05-1983,148
+531,, CORTAZAR Edgar, Mexico, 18-10-1978,147.8
+532,, LAUTENSCHLAGER Dimitrios, Germany, 11-11-1111,147.5
+533,, MADAREVIC Drazen, , 11-11-1111,147
+534,, KUDRNACOVA Olga, Czech Republic, 11-11-1111,146
+535, male, CARAZO Pedro, Costa Rica, 11-11-1111,145
+536, male, HELVACIOGLU Yilmaz, Turkey, 15-08-1961,145
+537, male, KIM Alexander, Uzbekistan, 05-04-1965,145
+538, male, PAGAN Edwin, Puerto Rico, 11-11-1111,145
+539,, ALEXIOUK Valery, , 11-11-1111,145
+540,, GABRIEL Manolo, , 11-11-1111,145
+541,, LACEK Petr, , 11-11-1111,145
+542,, NAIDENKOV Igor, , 11-11-1111,145
+543,, PAK Gerasim, Uzbekistan, 11-11-1111,145
+544,, RAHUNOVICH Dzmitry, Latvia, 24-07-1972,145
+545,, BENAVIDES Manfred, Costa Rica, 11-11-1111,145
+546,, PENA Luis, Puerto Rico, 11-11-1111,145
+547,, SMAILI Badr, Morocco, 07-05-1993,145
+548, male, GUZMAN Ramiro, Mexico, 11-11-1111,144
+549, male, LEE Hyun-Suk, Korea, 26-01-1971,143
+550, male, STAMPER Martin, United Kingdom of Great Britai, 21-08-1986,143
+551, male, VOIGT Paul, Sweden, 11-11-1111,143
+552, male, ETMINANI Davoud, United Kingdom of Great Britai, 21-06-1980,143
+553, male, KWON Ki-Moon, Korea, 11-11-1111,142
+554, male, KANG Seung-Su, Korea, 11-11-1111,141.3
+555,, IZARIK Pavel, Slovakia, 26-02-1973,141
+556,, KOVACIC Kristijan, Slovenia, 29-04-1976,141
+557,, CHA Sang, United States of America, 11-11-1111,141
+558, female, DOTSON Kim, United States of America, 15-04-1963,140
+559, male, YAMAGUTI Andre, Brazil, 26-04-1976,140
+560, male, ZAHEDI Seyed Hassan, Iran, 11-11-1111,140
+561,, AIRES Clovis, , 11-11-1111,140
+562,, CHUNG Ki-Soo, , 11-11-1111,140
+563,, LIGHTFOOT Raymond, , 11-11-1111,140
+564, male, MUNOZ Carlos, Mexico, 11-11-1111,140
+565,, MKADMI Abdelkhalak, Belgium, 18-01-1978,140
+566, male, SULTANMAKHMUT Shokbytov, , 05-12-1969,139
+567,, LEE Chong-Hae, Korea, 11-11-1111,139
+568,, WOO Jon-Chun, Korea, 11-11-1111,139
+569, female, SINGH Srishti, India, 05-04-1989,138
+570,, MALEKI MOGHADAM Hassan, , 11-11-1111,138
+571, male, HOWE Stephen, Ireland, 08-09-1959,137
+572,, KO Lyuh-Sun, , 11-11-1111,137
+573,, LOH T- K-, Korea, 11-11-1111,137
+574, female, AALTONEN Pia, Finland, 06-06-1966,136
+575,, ROMERO Walter, Ecuador, 11-11-1111,136
+576,, LEE Chol Sul Yoo, Korea, 11-11-1111,136
+577, male, SHAMOYAN Vardan, Armenia, 03-07-1969,135
+578,, HOFMANN Peter, , 12-04-1964,135
+579,, YOUNG Kil, , 11-11-1111,135
+580, male, MUTI Marius Nicolae, Romania, 14-01-1982,135
+581,, MONTES Rolando, , 11-11-1111,134.8
+582,, SHKALAV Dzianis, , 11-11-1111,133
+583,, TARAKI Muhammad Bashir, Afghanistan, 07-08-1980,133
+584, male, CIVILETTI Christophe, France, 23-09-1975,132
+585, male, HARB Ralph, Lebanon, 14-03-1985,132
+586,, EL JAMRI Tarik, Portugal, 11-11-1111,132
+587,, CHUN Dong-Keun, , 11-11-1111,131
+588, male, RASSIAH Dhanaraj, Malaysia, 29-06-1968,130
+589, male, FATNASSI Sami, Tunisia, 21-09-1986,130
+590,, YOKONO Kenji, , 11-11-1111,130
+591,, NICOLAOU Nicos, Cyprus, 01-08-1972,130
+592,, ROUAHI Mohamed Ali, Tunisia, 01-06-1983,130
+593, female, MOMENZADEH Mahla, Iran, 15-09-2002,129
+594,, BRUNS Valerie, Ukraine, 15-09-1969,129
+595, male, MAHAO Patoli, Lesotho, 11-11-1111,128
+596,, KIM Jun-Sik, , 11-11-1111,128
+597,, LIM Dae-Taek, , 11-11-1111,128
+598, female, EPANGUE Gwladys, France, 15-08-1983,126
+599,, GORJUP Boris, Serbia, 05-11-1975,125.8
+600, male, AL-SHAMARI Aied, Qatar, 01-01-1963,125
+601,, GUEOGUIEV Andrey, , 11-11-1111,125
+602,, O\'NEAL Keel, , 11-11-1111,125
+603,, SOUMARE Gaoussou, Mali, 11-11-1111,125
+604,, CARBALLO ELIZALDE Pedro, Cuba, 28-10-1959,125
+605,, DELISLE ROJAS Amaranto, Cuba, 09-09-1970,125
+606,, McGUINNESS Terry, , 11-11-1111,124
+607, female, ZAKKAS Lydia, Australia, 12-05-1964,123.8
+608, male, TAKACS Gabor, Hungary, 16-05-1970,123
+609,, KIM Gyong-Su, Korea, 11-11-1111,123
+610,, LEE Jong-Hwan, Korea, 11-11-1111,123
+611,, LEE Sin Hwa, Brazil, 29-05-1956,122
+612,, YU Myung-Won, , 11-11-1111,121
+613,, KHALIL Mahmoud, Egypt, 11-11-1111,121
+614, male, HARDIE Ben, New Zealand, 11-11-1111,120
+615, male, TEMIRALIYEV Murat, Kazakhstan, 04-02-1973,120
+616,, CORTIS Anthony, , 11-11-1111,120
+617,, DUISSEBAYEV Nurkhat, , 11-11-1111,120
+618,, IZZET Mustafa, , 11-11-1111,120
+619,, NAMIK Kemal, , 11-11-1111,120
+620,, PECKO Nikola, , 11-11-1111,120
+621,, MATIC Igor, Hrvatska, 11-11-1111,119.5
+622,, SHEVCHENKO Viktor, , 11-11-1111,119
+623,, VOROBIOV Valeri, , 11-11-1111,119
+624, male, YOU Young-Dae, Korea, 11-11-1111,118
+625,, NAM Hak-Hyon, Korea, 11-11-1111,118
+626,, LEE Bong-Chun, Korea, 11-11-1111,118
+627,, RAMAL MUNOZ Jesus, Spain, 01-09-1968,118
+628, female, HOCK Ruth, Australia, 05-09-1985,117.3
+629,, SANMIGUEL LOREDO Israel, , 25-03-1981,117
+630,, WAIL Mohamed, Sweden, 11-11-1111,117
+631, male, OUDE LUTTIKHUIS Thijs, Netherlands, 10-09-1981,116
+632, male, KIM Jae-Woo, Korea, 11-11-1111,116
+633,, BUBA Adamu, , 11-11-1111,116
+634,, OZIS Halil, , 11-11-1111,116
+635,, SUH Joong-Keun, , 11-11-1111,116
+636,, FREITAS Rivanaldo, Brazil, 01-07-1974,116
+637,, SARAIVA Rodney, Brazil, 11-11-1111,116
+638,, KIM Ki-Jong, Korea, 11-11-1111,115
+639,, NIANG Ibrahima, Mali, 08-06-1979,115
+640,, LEE Jae-Ho, Nepal, 20-05-1980,115
+641, male, SANABRIA Jose, Spain, 18-12-1959,112.5
+642,, BAHRAMINEJAD Morteza, Iran, 11-11-1111,112.5
+643, male, SERRAO Hugo, Portugal, 26-08-1978,112
+644, male, DEER Andrew, United Kingdom of Great Britai, 11-07-1987,112
+645,, HOSSEINZADEH Mahnaz, Iran, 11-11-1111,112
+646,, TIRKEY Lalit, India, 04-05-1961,112
+647, male, PARK Sun-Chol, Korea, 11-11-1111,111.5
+648, male, KAILA Jarl, Finland, 19-12-1966,111
+649, male, RAFIEI Meisam, Iceland, 21-03-1986,111
+650,, CHOI Young-Ryul, , 11-11-1111,111
+651,, HA Yong-Sung, , 11-11-1111,111
+652, male, PINARBASI Turgut Osman, Turkey, 11-11-1111,110
+653, male, SAIKIA Praban, India, 01-03-1975,110
+654,, DOSSANTOS Agostinho, Canada, 11-11-1111,110
+655, male, JUBA Stephen, Kenya, 11-11-1111,110
+656,, KIM Byoung-Hoon, , 11-11-1111,110
+657,, LEE Yoo, , 11-11-1111,110
+658,, LIN Tu-Cheng, , 11-11-1111,110
+659,, MUREU George, , 11-11-1111,110
+660,, SUN Myung-Hwa, , 11-11-1111,110
+661,, CHEN Ho-Lung, , 11-11-1111,110
+662,, MATA Moises, Mozambique, 11-11-1111,110
+663,, McCUTCHEON Brian, United States of America, 31-07-1968,110
+664,, II Uh-Soo, , 11-11-1111,109
+665,, LEE Kwang-Bae, , 11-11-1111,109
+666,, STILINOVIC Drazen, , 11-11-1111,109
+667, male, TIEDJEN Steen, Denmark, 11-11-1111,109
+668,, CAMPANICO Pedro, Portugal, 10-11-1976,109
+669,, FALAHIRAD Hassan, Iran, 11-11-1111,108
+670,, PANT Deepak, India, 01-02-1978,107
+671,, ANDRIYEVSKYY Valeriy, , 11-11-1111,105
+672,, APOSTOL Costantin, Romania, 17-06-1967,105
+673,, CASAGRANDE Emilio, Argentina, 11-11-1111,105
+674,, CHOI Nam-Sung, , 11-11-1111,105
+675,, FRONISTAS Loucas, , 11-11-1111,105
+676,, GERGES Digben, , 11-11-1111,105
+677,, HOSSRI Robert, , 11-11-1111,105
+678,, LEE Kyoung-Myong, , 11-11-1111,105
+679,, WARREN David, , 11-11-1111,105
+680,, BAGHI NEJAD Hamid, Iran, 11-11-1111,104.5
+681,, ABDULLAEV Magomed, , 11-11-1111,104.3
+682,, HAKEGARD Tor, , 11-11-1111,104
+683,, NILSEN Erik, , 11-11-1111,104
+684,, BOISVERT Tommy, Canada, 11-11-1111,104
+685,, CHANGO Marcos, , 11-11-1111,103
+686,, GUPTA Vijay, India, 06-03-1984,103
+687, male, KADLEC David, Czech Republic, 06-10-1979,102
+688,, VASYLCHENKO Serhiy, Ukraine, 11-11-1111,101
+689,, ABDEL MJID Khouia, , 11-11-1111,100
+690,, KU Yong-Chae, , 11-11-1111,100
+691,, MIN Sin-Hak, , 15-10-1972,100
+692,, MIREBADI Majid, , 11-11-1111,100
+693,, MOREIRA Lander, , 11-11-1111,100
+694,, VUKELIC Lucijan, , 11-11-1111,100
+695,, CHACON Alejandro, Costa Rica, 11-11-1111,100
+696,, RODRIGUEZ Felix, Puerto Rico, 11-11-1111,100
+697,, LEE Ki-Jeong, Hrvatska, 11-11-1111,100
+698,, YOU Yong-Rak, Korea, 11-11-1111,100
+699,, KHALIL Moh- D- H-, , 11-11-1111,100
+700,, AMHAD Ignacio, Venezuela, 11-11-1111,100
+701,, RO Chin-Ming, Korea, 11-11-1111,100
+702,, YASAEI Azadeh, Iran, 11-11-1111,100
+703,, MOHAMAD NEJAD Mahbobeh, Iran, 11-11-1111,99.5
+704, female, SHMIDA Noa, Israel, 20-08-1982,98.8
+705, male, BABUADZE Davit, Georgia, 22-02-1966,98
+706, male, GEORGIEV Andrey, Bulgaria, 20-05-1976,98
+707,, CHOI Ji-Sun, , 11-11-1111,98
+708,, COLON Jose, , 11-11-1111,98
+709, male, BOYALI Ekrem, Turkey, 15-07-1970,96
+710,, ANASTASIOU Marinos, , 11-11-1111,96
+711,, LOPEZ CASTILLO Jesus Adilio, , 11-11-1111,95
+712,, LEE Jung-Nam, United States of America, 11-11-1111,95
+713,, MAITUI Theodore, French Polynesia, 11-11-1111,95
+714, male, RUSINOV Roman, Israel, 11-11-1111,95
+715,, BURUIAN Gheorghe, , 11-11-1111,93
+716,, MONTVIDAS Romualdas, Lithuania, 20-10-1954,91
+717,, SMYCHKOU Siarhei, Belarus, 20-08-1976,91
+718,, KIM Son-Chon, Korea, 11-11-1111,90.8
+719,, SAEIDIZADEH Akbar, Iran, 11-11-1111,90.3
+720, male, GOULART Fabio, Brazil, 17-06-1965,90
+721, male, NOGUERA Luis, Venezuela, 12-10-1973,90
+722, male, RAMOS Juan Antonio, Spain, 18-08-1976,90
+723,, ARIAS Ramon, , 11-11-1111,90
+724,, CHUNG Simon, , 11-11-1111,90
+725,, KANG Hyun-Soon, , 11-11-1111,90
+726,, LEE Beom-Joo, Korea, 11-11-1111,90
+727,, PAK Vyatcheslav, , 27-09-1974,90
+728,, CHEUNG, , 11-11-1111,90
+729,, CHUNG Eui-Hwang, Korea, 11-11-1111,90
+730,, YOON Mogg, Korea, 11-11-1111,90
+731, male, CODAZZO Aldo, Italy, 06-05-1956,89
+732,, FATHI Asgar, Iran, 11-11-1111,89
+733,, TIAN Guerman, , 11-11-1111,88
+734,, VULKA Elvis, , 11-11-1111,87
+735,, GHOHYEI Maryam, Iran, 11-11-1111,87
+736, male, ZAREEI SHAMSABADI Manni, Netherlands, 04-07-1985,86
+737, male, D\'ORIANO Luigi, Italy, 10-11-1958,85
+738, male, NGUYEN Dang Kanh, Viet Nam, 02-09-1968,85
+739, male, VO Ludovic, France, 05-01-1978,85
+740, male, GIORDANO Ciro, Italy, 13-03-1962,85
+741,, ALAVA Alfredo, , 11-11-1111,85
+742,, APOSTOL Georghe, Romania, 20-10-1949,85
+743,, BAIK Yoon-Pil, Tonga, 14-10-1939,85
+744,, BOURKE Mally, , 11-11-1111,85
+745,, FLORES Cristian, , 11-11-1111,85
+746,, GHENERALOV Oleg, , 11-11-1111,85
+747,, SHIN Jae-Keun, , 11-11-1111,85
+748, male, KANAI Hiroshi, Japan, 24-05-1973,84
+749, male, MOUTARAZAK Mustapha, Netherlands, 11-11-1111,84
+750, female, PARK Sun-Mi, Korea, 22-11-1972,84
+751,, BARROS Marcelino, , 11-11-1111,84
+752,, KIM Yong, , 11-11-1111,84
+753,, LEE Jong-Chu, , 11-11-1111,84
+754,, TRUONG Van Hai, , 11-11-1111,84
+755,, DIALLO Papa Ndiogou, Senegal, 11-11-1111,84
+756,, CHANG Hong-He, , 11-11-1111,83
+757,, LEE Joong-Kee, , 11-11-1111,83
+758,, SHEREUK Jamil, Denmark, 11-11-1111,83
+759,, SVEC Mario, Slovakia, 11-11-1111,83
+760,, CHENG Chiu-Kung, , 11-11-1111,82.5
+761, male, SAMANN Norbert, Germany, 17-09-1960,82
+762, male, BETIAN Mircea, Moldova, 11-02-1973,81.8
+763,, BASAR Suleyman, Turkey, 11-11-1111,81.5
+764, male, BAILEY David, United Kingdom of Great Britai, 28-11-1961,81
+765,, REINIC Mladen, , 17-05-1964,80.5
+766, male, KILDAU Hermann, Germany, 11-11-1111,80
+767, male, VITAGLIANO Esteban, Chile, 09-12-1961,80
+768, male, FUKUDA Toshiyosu, Japan, 06-08-1973,80
+769,, GERWASH Ibrahim, , 11-11-1111,80
+770,, KIM Hong-Seir, , 11-11-1111,80
+771,, KIM Myung-Soo, Korea, 11-11-1111,80
+772,, MRSIC Dragomir, , 11-11-1111,80
+773,, RIM Seounmin, , 11-11-1111,80
+774,, MAMBU Alpha, Congo, 11-11-1111,80
+775,, AKHMEDOV Rashid, Uzbekistan, 11-11-1111,80
+776,, KIM Byeong-Hun, , 11-11-1111,80
+777,, ABOUELFARH Hesham, Egypt, 11-11-1111,80
+778,, MOFFORD Colin, Trinidad and Tobago, 16-08-1962,80
+779,, RAJAB Mahmoud Mashadi, Iran, 11-11-1111,80
+780,, GIL Chang-Moon, Korea, 11-11-1111,80
+781,, OGANESSIANTS Avetis, , 06-08-1964,79.5
+782,, NAM Sang-Dok, Korea, 11-11-1111,79.3
+783,, RYGH Kjetil, , 11-11-1111,79
+784,, FATHI Jafar, Iran, 11-11-1111,79
+785,, LITWINSKI Jerzy, , 11-11-1111,78.8
+786,, KASHKAROV Victor, , 11-11-1111,78
+787,, KIM Choung-Kwan, , 11-11-1111,78
+788,, SON Sung-Min, Canada, 14-05-1989,78
+789, male, LIANG Vitaly, Taiwan, 11-11-1111,77
+790, male, SITAPA Paula, Tonga, 11-10-1978,76
+791, male, BEIS Konstantinos, Greece, 02-01-1963,76
+792,, STEFANO de Domenic, , 11-11-1111,76
+793, male, GUNUNAL Yusuf, Turkey, 11-11-1111,75.3
+794, male, ZADEHMOHAMMAD Reza, Austria, 30-03-1944,75
+795, male, FREDES MEZA Luis, Chile, 18-01-1976,75
+796, male, ZAHARIEV Stamen, Bulgaria, 02-12-1985,75
+797, male, LEE Sun-Jae, Korea, 19-08-1982,75
+798, male, NUGRAHA Taufik Krisna, Indonesia, 09-09-1981,75
+799,, BABIC Stojan, Serbia, 12-10-1945,75
+800, male, KHAN Evgeniy, , 11-11-1111,75
+801,, LAME Elton, , 11-11-1111,75
+802,, LEE Seung-Gyy, Kyrgyz Republic, 13-06-1969,75
+803,, OREHOV Alexei, , 11-11-1111,75
+804,, SMIRNOV Alexandr, , 16-11-1964,75
+805,, TCIZHIK Oleg, , 11-11-1111,75
+806,, SATAN Tarquino, Ecuador, 16-10-1978,75
+807,, WAGNER Joe, Canada, 11-11-1111,74.3
+808,, CHU Shin-Gyu, Korea, 11-11-1111,74.3
+809, male, MATHEU DIAZ Eduardo, Spain, 11-11-1111,74
+810,, KNAPEN Guy, , 11-11-1111,74
+811,, KANG Chin-Chal, Korea, 11-11-1111,74
+812,, KHOSHROUZI Ahmad, Iran, 11-11-1111,74
+813, male, HANSEN Warren, Australia, 25-08-1970,73.8
+814,, TATAR Mustafa, , 11-11-1111,73.5
+815, male, IULIO di Andrea, Luxembourg, 09-06-1970,73
+816, male, HABIBOULLAH Habib, Afghanistan, 11-11-1111,73
+817,, KIM Jun-Woo, Korea, 30-09-1978,73
+818, male, GARR Troy, United States of America, 09-07-1970,72.3
+819,, TOKAS Harish, India, 01-03-1988,72.1
+820, female, TREADWELL Kylie, Australia, 15-04-1980,72
+821,, CHO Jung-Hyun, South Africa, 08-07-1971,72
+822,, CHOI Jong-Yol, Korea, 11-11-1111,71.8
+823, male, CHANG Myung-Sam, Korea, 11-11-1111,71
+824, female, JANG Jung-Yoon, Korea, 11-11-1111,71
+825,, CHEIKA Vladimir, , 11-11-1111,71
+826,, TAKEMURA Mobutaka, , 11-11-1111,71
+827,, PIRHADI Yadollah, Iran, 11-11-1111,71
+828, male, SIMPAO Dingo, Philippines, 17-11-1974,70
+829, male, AMEFU Norbert, Ghana, 06-06-1970,70
+830, male, IRGASHEV Akmal, Uzbekistan, 16-12-1982,70
+831,, ATALAR Cornelia, , 11-11-1111,70
+832,, AVI Berman Boris, , 11-11-1111,70
+833,, CHO Nam-Soo, , 11-11-1111,70
+834,, INKALI, , 11-11-1111,70
+835,, KIM Hong-Jo, , 11-11-1111,70
+836,, KORSHED Shihab Abdul, , 11-11-1111,70
+837, male, LOPEZ Juan, , 11-11-1111,70
+838,, MURTHY Krishna, India, 02-06-1976,70
+839,, NGUEMBO, , 11-11-1111,70
+840,, OTU Frederick, Ghana, 10-08-1968,70
+841,, THARCHEN Yonten, , 11-11-1111,70
+842,, CHO Myong-Koo, Korea, 11-11-1111,70
+843,, KANG Byong-Ok, Korea, 11-11-1111,70
+844,, KOSTOVSKI Borche, Macedonia, 21-10-1984,70
+845,, JANG Jong Youl, Korea, 11-11-1111,70
+846,, AGGARWAL Shivani, India, 19-11-1982,70
+847,, BREGINSKI Mark, Israel, 11-11-1111,69.3
+848, male, NAFJAM Feizollah, Iran, 31-07-1974,69
+849,, EIMA Eyal, , 11-11-1111,69
+850,, NEGRAO Carlos, , 11-11-1111,68
+851,, PALERMO Carlos, , 11-11-1111,68
+852, male, PARK Young-Chul, , 11-11-1111,68
+853,, RODRIGUEZ Chago, , 11-11-1111,68
+854,, TONG Liang, , 11-11-1111,68
+855,, KHODAEI Nader, Iran, 11-11-1111,68
+856,, ATAEI Ahmad, Iran, 11-11-1111,68
+857, male, PARK Chong-Man, Korea, 11-11-1111,67.5
+858, male, ABBASI Seyed Hossein, Iran, 11-11-1111,67
+859, male, KOLB Sergej, Germany, 28-01-1986,67
+860, female, SARDAROVA Saule, Kazakhstan, 14-04-1982,67
+861,, KERIMOV Qoudrat, , 11-11-1111,67
+862,, LEE Kiu-In, , 11-11-1111,67
+863,, LOPES Pavlo, , 11-11-1111,67
+864, male, BARTOSIEWICZ Andrezj, Poland, 11-11-1111,66
+865, male, MPELOS Sisimos, Greece, 11-11-1111,66
+866,, KARAPIETSIAN Aharon, , 11-11-1111,66
+867,, LEE Soo-Kwang, , 11-11-1111,66
+868,, TASSIOS Stavros, , 11-11-1111,66
+869,, SONG Jo-Shik, Korea, 11-11-1111,66
+870,, BERNARDI Secondo, San Marino, 06-10-1972,66
+871,, RAIBEKOV Bakytzhan, Kazakhstan, 11-11-1111,66
+872, male, LYGEROS Evangelos, Canada, 29-10-1971,65.3
+873, male, CHANG Dae-Soon, Korea, 18-02-1974,65
+874, male, MARCHIONE Raffaele, Italy, 17-07-1958,65
+875, male, MARINOV Marin, Bulgaria, 09-11-1980,65
+876, male, VIDAL Alvaro, Colombia, 11-11-1111,65
+877, female, CHEONG Hye Yoon, New Zealand, 11-11-1111,65
+878, male, AMENU Michel, Ghana, 11-11-1111,65
+879,, CHAMBER Illiasu, , 11-11-1111,65
+880,, GAL Istvan, , 11-11-1111,65
+881,, MOSCH Norbert, Austria, 23-01-1952,65
+882,, PARK Hyun-Sook, , 11-11-1111,65
+883,, PHIMTHON Wirat, , 11-11-1111,65
+884,, ZAWADKA Marek, Poland, 11-11-1111,65
+885, male, ANAFULU Tony, Nigeria, 11-11-1111,64
+886,, KHOMENKO Serhiy, , 11-11-1111,64
+887,, ABDULMALIK Mohammed, Nigeria, 11-11-1111,64
+888, male, ARGUDO SESMILO Javier, Spain, 03-05-1975,63
+889,, BERBEROVIC Belmir, Bosnia and Herzegovina, 08-03-1976,63
+890,, YU Yong-Jin, Kazakhstan, 11-11-1111,63
+891,, FONTAN Salvador, Spain, 11-11-1111,62.8
+892, male, ENRIGHT Bobby, Ireland, 28-01-1981,62
+893,, HON Igor, , 11-11-1111,62
+894,, PIAK Oleg, , 11-11-1111,62
+895, female, HARTNETT Carmela, Australia, 11-11-1111,61.5
+896, male, NEVALAINEN Ari, Finland, 11-11-1111,61
+897,, ELHOCINE Malki, , 11-11-1111,61
+898,, MESA de la Rafael, , 11-11-1111,61
+899,, RUI Sven Olav, , 11-11-1111,61
+900,, STOCHMALSKI Tomasz, , 11-11-1111,61
+901,, SHTANKO Oleg, Ukraine, 11-11-1111,61
+902,, MOHSENI Kolsoum, Iran, 11-11-1111,60.5
+903,, LEE Eui, United States of America, 09-02-1971,60.3
+904, male, KRAUTZ Joachim, Germany, 08-05-1960,60
+905, male, LEPIN Vitaly, Latvia, 16-09-1978,60
+906, male, MOKHOSI Mokete, Lesotho, 01-05-1969,60
+907, male, RAWLINS Charles, Australia, 11-11-1111,60
+908, male, SEMJIDSUREN Gantumur, Mongolia, 28-08-1977,60
+909, male, KITTELSON Anders, Norway, 11-11-1111,60
+910,, GARAY NARVAEZ Ligia, , 11-11-1111,60
+911,, GELDER van Peter, , 11-11-1111,60
+912,, GONZALES Editaldo, , 11-11-1111,60
+913,, LEIJENAAR J-, , 11-11-1111,60
+914,, LIFSHITS Vladimir, , 04-05-1953,60
+915,, LIKOV Igor, , 11-11-1111,60
+916,, MAIRHOFER Harald, , 11-11-1111,60
+917,, MARTINEZ Reinaldo, , 11-11-1111,60
+918,, MONGKHOLDET Somyot, , 11-11-1111,60
+919,, SAARDAIUM Pun, , 11-11-1111,60
+920,, SANDERS P-, , 11-11-1111,60
+921,, TUMURSANDAN Ganod, , 11-11-1111,60
+922,, REE Kito, Japan, 11-11-1111,60
+923,, BROOKS Andrew, New Zealand, 01-01-1981,60
+924,, CHAN Anthony, New Zealand, 12-12-1985,60
+925,, TORGOMYAN Mikayel, Armenia, 11-11-1111,60
+926,, ZENOLABEDINI Mohammad, Iran, 11-11-1111,60
+927,, BOGDAEV Kurban, Russian Federation, 11-11-1111,60
+928,, OH Young-Su, , 11-11-1111,59.3
+929, male, LANGER Reinhard, Germany, 21-09-1960,59
+930, male, POSPISEK Pavel, Czech Republic, 02-02-1993,59
+931, male, MOONEY John Joseph, Australia, 11-11-1111,59
+932,, LOCKYER Rodney, , 11-11-1111,59
+933,, TURNER Gordon, , 11-11-1111,59
+934,, GLEREN Bastien, France, 11-11-1111,58.8
+935, male, KUKIC Darko, Serbia and Montenegro, 11-11-1111,58
+936,, BANG Young-Sun, Mexico, 20-06-1976,57.5
+937,, GONZALEZ RAMIREZ Marina, Mexico, 11-11-1111,57.5
+938, female, BAIDYA Sangina, Nepal, 29-12-1974,57
+939, male, LAEZZA Pacifico, Italy, 10-08-1980,57
+940, male, TUNCER Mert, Turkey, 11-02-1975,57
+941,, KARABULUT Halit, , 11-11-1111,57
+942,, MIHAYLOV Dimitar, Bulgaria, 01-09-1985,57
+943,, NUNES da FONSECA Rafael, Portugal, 11-11-1111,57
+944,, FALAHATGAR Davoud, Belgium, 11-11-1111,57
+945, male, UNALAN Mahir, Australia, 30-09-1980,56
+946,, BLACK Rod, Australia, 11-11-1111,56
+947,, BSHAQ Ali Mohammad, , 11-11-1111,56
+948,, KIM Deuk-Young, , 11-11-1111,56
+949, male, HAJIPOUR Ali, Iran, 11-11-1111,55.3
+950,, PAPOVA Svetlana, , 11-11-1111,55.3
+951, male, ARVENTII Vladislav, Moldova, 19-08-1993,55
+952,, CALLUT Eric, , 11-11-1111,55
+953,, FUENTE de la Alejandro, , 11-11-1111,55
+954,, JEON Ik-Ki, , 11-11-1111,55
+955,, KARAURIA Ednard, , 11-11-1111,55
+956,, PANAY Ioanna Constandina, , 11-11-1111,55
+957,, YOON Oh-Nam, , 11-11-1111,55
+958,, BENSAFI Mehdi, France, 06-04-1983,55
+959,, EBOULA Padoue, Gabon, 11-06-1977,55
+960,, RAMOS CORDERO Migdalia, Puerto Rico, 28-08-1968,55
+961,, O\'NEILL Kesi, , 11-11-1111,54
+962, male, PADILLA Kevin, United States of America, 07-07-1964,53.3
+963, female, SUKHAVITSKAYA Yuliya, Belarus, 31-10-1978,53
+964,, GHODSMIRHEYDARI Seyedfaziollah, , 11-11-1111,53
+965,, SMICHKOU Siarhei, , 11-11-1111,53
+966, male, RENGASAMY Seelan, United Kingdom of Great Britai, 29-10-1964,52
+967, male, OUAZZANI Mohamed, Morocco, 11-11-1111,52
+968, male, CULLEN John, United Kingdom of Great Britai, 01-06-1977,52
+969,, CHUNG Su-Hwan, , 11-11-1111,52
+970,, NUFLO ALFARO Francisco, , 11-11-1111,52
+971,, SANG Park, , 11-11-1111,52
+972,, ZHOU Renzhi, , 11-11-1111,52
+973, male, ROKNI Seyed Mehrdad, Iran, 11-11-1972,51.5
+974, male, ANDRADE Juan, Ecuador, 11-11-1111,51.3
+975, male, BUKHRADZE David, Georgia, 06-10-1982,51
+976, male, LIZARDO John Paul, Philippines, 08-06-1986,51
+977,, KIM Seung-Young, Korea, 11-11-1111,51
+978,, KYAW Than Oo, , 11-11-1111,51
+979,, RODRIGUES NETO Luciano, , 11-11-1111,51
+980,, YOUNG Kim, , 11-11-1111,51
+981,, CHOI Yong-Sok, Cameroon, 23-11-1967,51
+982,, BOGDANOV Nikolay, Bulgaria, 11-11-1111,51
+983,, BUDOR Boris, , 11-11-1111,50.3
+984, male, ENKHBAATAR Myagmarsuren, Mongolia, 17-06-1974,50
+985, male, CHILMANOV Arman, Kazakhstan, 20-04-1984,50
+986, male, ALAHAME Niko, Finland, 08-04-1974,50
+987, male, ROSAL GARCIA Frederico Jose, Guatemala, 27-08-1987,50
+988, male, TORKORNOO Augustine, Ghana, 11-08-1976,50
+989,, CHONG Song-Hong, , 11-11-1111,50
+990,, MAHARRAMOV Rovshan, , 03-07-1970,50
+991,, MAUMONEN Janne, , 11-11-1111,50
+992,, SEMJIDSUREN Gan-Erdene, Mongolia, 26-09-1970,50
+993,, SAMY Mohamed, Qatar, 11-11-1111,50
+994,, KHALIL Mohammad, Palestinian Territory, 11-11-1111,50
+995,, GOMEZ Raul, Colombia, 17-11-1971,50
+996,, DUGUMA Adisu, Ethiopia, 21-11-1970,50
+997,, ARANDA Claudio, Guatemala, 07-04-1971,50
+998,, KIM Hong Gon, Malaysia, 25-03-1966,50
+999,, AHMED Nadeem, Pakistan, 01-02-1975,50
+1000,, SHAHZAD Waseem, Pakistan, 11-07-1987,50
+1001,, MOJDEH Behnaz, Iran, 11-11-1111,50
+1002, male, GRISOLI Diego, Italy, 30-06-1975,49.3
+1003,, SERGERIE Rejean, Canada, 11-11-1111,49.3
+1004, male, ALAA Ismail, Egypt, 11-11-1111,49
+1005, male, BOROT Mickael, France, 31-05-1975,49
+1006, male, CASTANEDA Ashley, Canada, 19-09-1988,49
+1007,, LEE Stuart, , 11-11-1111,49
+1008,, BENABDERRASSOUL Ahmed, , 11-11-1111,48.8
+1009,, HRISTEV Vasil, , 11-11-1111,48
+1010,, OSTERGAARD Anders, Denmark, 11-11-1111,48
+1011, male, OOGINK Michael, Netherlands, 14-01-1988,47
+1012,, KEULEN van Marc, , 11-11-1111,46
+1013,, MALCHAREK Jan, , 11-11-1111,46
+1014,, WHEELER Ian, , 11-11-1111,46
+1015,, MODIRI Ali, Iran, 11-11-1111,46
+1016, male, BASBOUS Cosette, Lebanon, 25-07-1977,45
+1017, male, LEE Jae-Sung, Korea, 17-02-1978,45
+1018, male, REBENSTEINER Hermann, Austria, 22-08-1969,45
+1019, male, RIVAS Carlos, Venezuela, 28-06-1968,45
+1020, male, KONARSKI Jerzy, Poland, 11-11-1111,45
+1021, male, GUDMUNDSSON Helgi Rafn, Iceland, 02-12-1986,45
+1022,, AMARA Nefzi, , 11-11-1111,45
+1023,, AYALA Ruben, , 11-11-1111,45
+1024,, DAL Kwon-Yeong, , 11-11-1111,45
+1025,, KIL Yong-Sup, , 11-11-1111,45
+1026,, MARTINEZ Yelitza, , 11-11-1111,45
+1027,, FRANTZ Michaud, Haiti, 11-11-1111,45
+1028,, NAHA MHAO Michael, , 11-11-1111,45
+1029,, PERES Aria, , 11-11-1111,45
+1030,, SYROKA Miroslav, , 11-11-1111,45
+1031,, WEBSTER John, New Zealand, 23-10-1961,45
+1032,, JOSEPH Reginal, French Guiana, 20-11-1982,45
+1033,, YOUNG Choung, Canada, 11-11-1111,45
+1034,, GLASNOVIC Mario, Sweden, 11-11-1111,45
+1035,, DORJI Gyaltshen, Bhutan, 11-11-1111,45
+1036, male, DALIRNEJAD Sasan, Germany, 09-08-1987,44.5
+1037,, KHAN Artur, Russian Federation, 11-11-1111,44.5
+1038,, ISAYEV Vitaly, , 11-11-1111,44.3
+1039,, REZNIKOV Alexander, , 11-11-1111,44.3
+1040,, SALIM Marziyeh, Iran, 11-11-1111,44.3
+1041, male, HAMID Cuneyt, Denmark, 17-05-1980,44
+1042, male, PARK Hee-Kang, Korea, 26-08-1977,44
+1043, male, EZEN Murat, Turkey, 11-11-1111,44
+1044,, CESAR Evandro, , 11-11-1111,44
+1045, male, JAFARI Hamed, Iran, 11-11-1111,44
+1046, male, KIM John, Canada, 22-06-1982,43
+1047,, BRUNINX John, , 11-11-1111,43
+1048,, DELANOY Jean-Pierre, , 11-11-1111,43
+1049,, LEE KANG Byung Sup, Uruguay, 30-03-1945,43
+1050,, DOVGOPOLOV Andrii, Ukraine, 11-11-1111,43
+1051, male, SINGH MAND Jagjeet, India, 04-04-1988,42.5
+1052,, PYZEL Wojciech, Poland, 12-05-1984,42.5
+1053, male, AVETISYAN Arsen, Armenia, 17-04-1968,42
+1054, male, SINGH Rakesh, India, 11-11-1111,42
+1055,, CHEN Jung-Chin, , 11-11-1111,42
+1056,, CHUANG Daniel, , 11-11-1111,42
+1057,, KUNISAKI, , 11-11-1111,42
+1058,, KIM Gu-Hwan, Korea, 11-11-1111,42
+1059,, KIM Young-Jin, , 12-11-1976,41.8
+1060, male, MEKINYAN Zorayr, Armenia, 11-11-1111,41
+1061,, OWEN Kate, , 11-11-1111,41
+1062, male, SHEIKHI Abbas, Iran, 06-11-1985,40.8
+1063, male, JI Jae-Ki, Korea, 11-11-1111,40
+1064,, AFERI Mohammed, , 11-11-1111,40
+1065,, DASANTHYO Prihadi, , 11-11-1111,40
+1066,, DILDAR Yousuf, , 11-11-1111,40
+1067,, KIM Jong-Won, , 11-11-1111,40
+1068, male, KURBANOV Yazmurad, , 11-11-1111,40
+1069,, LAMPTEY Adnan, Ghana, 07-07-1971,40
+1070,, MOINA Jadeed, , 11-11-1111,40
+1071,, OREKHOR Alexeni, , 11-11-1111,40
+1072,, SOLER Fabian, , 11-11-1111,40
+1073,, STANELIS Giedius, , 12-03-1974,40
+1074,, ZEYAD Hammad, , 11-11-1111,40
+1075,, SINGH Jagdeep, India, 05-05-1985,40
+1076,, ABDELGAWAD Mahmoud, Egypt, 11-11-1111,40
+1077,, DEFAIX Sylvain, French Polynesia, 06-11-1965,40
+1078,, LEE Juang-Hun, Paraguay, 17-11-1989,40
+1079,, LOUREDA Francisco, Paraguay, 12-11-1962,40
+1080,, AZARPAD Mohammad Esmail, Iran, 11-11-1111,40
+1081,, KURBAN Bugdaev, Tunisia, 11-11-1111,40
+1082, male, BAILEY Romaine, United Kingdom of Great Britai, 05-06-1989,39.8
+1083, female, TANG Hui-Ting, Taiwan, 11-11-1111,39.5
+1084,, BELAGER Michel, , 11-11-1111,39.5
+1085,, KOH George, , 11-11-1111,39.5
+1086,, SOLORIO DIAZ Jose Ramon, , 11-11-1111,39
+1087,, TESIC Zeljko, , 11-11-1111,39
+1088,, PYKE Kate, Canada, 11-11-1111,39
+1089,, RADHAPIYARI DEVI Ngangom, India, 02-01-1979,39
+1090, female, GE Michelle, Canada, 14-08-1980,38.8
+1091, male, VOTTA CAMANDULLI Mayko, Uruguay, 12-12-1977,38
+1092,, MAMMADOV Hamid, , 11-11-1111,38
+1093,, O\'FLATHERTY Damien, , 11-11-1111,38
+1094,, CHOI Kyoung-An, Korea, 11-11-1111,38
+1095,, KORDUS Arkadiusz, Poland, 11-11-1111,37.3
+1096,, BONFANTE Dario, , 11-11-1111,37
+1097,, CODREANU Roman, , 11-11-1111,37
+1098,, EL BOUJJOUFI Mimoun, Netherlands, 11-11-1111,37
+1099,, AMADGHOUS Ali, Morocco, 01-11-1985,36.3
+1100,, EL KARROUMI Samir, Morocco, 26-08-1979,36.3
+1101, female, BOURGUIGUE Mounia, Morocco, 21-01-1975,36
+1102,, DIAZ Jesus Benito, , 11-11-1111,36
+1103,, OLIVERO Fernanda, Argentina, 11-11-1111,36
+1104,, MAIRAU Tupaapaa, French Polynesia, 11-11-1111,36
+1105,, KHAVARI Javad, Iran, 11-11-1111,35.8
+1106, male, ATES Harun, Turkey, 09-03-1968,35.3
+1107,, CHOROKI Jalal, Iran, 11-11-1111,35.3
+1108, male, ALFARO Pablo, Costa Rica, 11-11-1111,35
+1109, male, SKANEBY Jesper, Sweden, 30-12-1970,35
+1110,, ALVETEG Mac, , 11-11-1111,35
+1111,, BROWN Jo, , 11-11-1111,35
+1112,, PETEV Vladimir, , 11-11-1111,35
+1113,, PINZON Pedro, , 11-11-1111,35
+1114,, SALCEDO Giovanny, , 11-11-1111,35
+1115,, VLANDEREN van, , 11-11-1111,35
+1116,, HADJADJ Salah, Algeria, 24-01-1971,35
+1117,, ISLAM Susmita, Bangladesh, 12-11-1978,35
+1118,, PENA Yldemaro, Panama, 20-05-1980,35
+1119,, KHAZAEI Leila, Iran, 11-11-1111,34.8
+1120, male, LOPEZ Steven, United States of America, 09-11-1978,34.3
+1121,, HUSSEIN Tamer, , 11-11-1111,34.3
+1122, male, KIM Bong-Seok, United States of America, 11-11-1111,34
+1123, male, SHALOM David, Israel, 19-06-1979,34
+1124, male, CAROU VARELA Pablo, Spain, 14-05-1989,34
+1125,, SHAFRIR Kechel, , 11-11-1111,34
+1126,, KIPORENKO Serhiy, Ukraine, 11-11-1111,34
+1127,, PARAPPA S-K-, India, 11-11-1111,34
+1128,, TIUMALU Filo, New Zealand, 11-11-1111,34
+1129,, DINH Dave, United States of America, 11-11-1111,33.8
+1130, male, TAJIK Ali, Iran, 01-08-1976,32.3
+1131,, LAI KOUN SIN Alfred, French Polynesia, 11-11-1111,32
+1132,, JIN Dong-Hwan, Mexico, 11-11-1111,32
+1133, male, PACELAT Renato, Hrvatska, 11-11-1111,31.8
+1134,, DIAWARA Bakary, Mali, 11-11-1111,31.3
+1135, male, D´ALISE Domenico, Italy, 06-06-1960,31
+1136, male, FOSTIN Sylvain, Guadaloupe, 03-10-1976,31
+1137,, SALEHI Rahim, , 11-11-1111,31
+1138, male, SARGSYAN Sargis, , 11-11-1111,31
+1139,, SEELOS Martin, Austria, 11-11-1111,31
+1140, male, CATELO Patrice, Guadaloupe, 20-09-1979,31
+1141,, OLIVEIRA Ruben, Portugal, 11-11-1111,31
+1142,, SARVI Zahra, Iran, 11-11-1111,31
+1143, male, FUJIYAMA Mauro Hideki, Brazil, 10-03-1964,30.5
+1144,, REZAPOUR Rouhollah, Iran, 11-11-1111,30.5
+1145, male, AMANOV Elnur, Azerbaijan, 13-07-1977,30
+1146, male, TOULIMBETOV S-, Kazakhstan, 01-01-1967,30
+1147, male, RODRIGUEZ Nassin, El Salvador, 11-11-1111,30
+1148, male, VAHVELAINEN Juha, Finland, 11-11-1111,30
+1149, male, CACA Julian, Albania, 14-02-1982,30
+1150, male, PETRENKO Oleksandr, Ukraine, 02-10-1986,30
+1151, male, RAICEVIC Nikola, Montenegro, 11-11-1111,30
+1152, male, TLISH SALEM Mohamed, Libyan, 10-09-1985,30
+1153, male, NTULAGE Badru, Uganda, 03-06-1983,30
+1154,, ADYASUREN Narantuya, , 11-11-1111,30
+1155,, CHANG, , 11-11-1111,30
+1156,, JAAKMAN Andres, , 11-11-1111,30
+1157,, JOHANNESDOTTIR Sigidur, , 11-11-1111,30
+1158,, KHADEMUDDIN, , 11-11-1111,30
+1159,, MIHAJLOV Kosta, , 11-11-1111,30
+1160,, NURBAYEV T-, , 11-11-1111,30
+1161,, RAJJAB Basir, , 30-12-1959,30
+1162,, UCHE Morah, , 11-11-1111,30
+1163,, UDOMOH Solomon, , 11-11-1111,30
+1164,, CHAO Iat Keong, , 11-11-1111,30
+1165,, KAPRI Leo, Albania, 11-11-1111,30
+1166,, ZAGYI Peter, Slovakia, 11-11-1111,30
+1167,, KANG Sa-Min, , 30-11-1963,30
+1168,, REESE DORADO Carlos, Bolivia, 15-04-1994,30
+1169,, BARRY Mody Sory, Haiti, 06-09-1968,30
+1170,, KOCA Rinor, Kosovo, 12-01-1994,30
+1171,, QAFELESHI Enis, Kosovo, 23-09-1992,30
+1172,, LEE Duk-Hwi, Lesotho, 30-07-1980,30
+1173,, DLAMINI Zakhele, Swaziland, 27-05-1970,30
+1174,, BAYOUN Maher, Syrian, 01-01-1981,30
+1175,, WOO LEE Yong, Uganda, 18-03-1965,30
+1176, male, AYDIN Demirhan, Germany, 06-06-1970,29.8
+1177,, PORTO Flavio, Brazil, 11-11-1111,29
+1178, male, BISTA Deepak, Nepal, 02-07-1976,28.8
+1179,, POULADI Jafar, Iran, 11-11-1111,28.8
+1180,, RAMEZANI Saeid, Iran, 11-11-1111,28.5
+1181, male, ABU-ZAID Yousef, Jordan, 03-05-1972,28
+1182, male, KRKLJES Miroslav, Serbia, 22-03-1981,28
+1183, male, JABLAN Dragan, Serbia and Montenegro, 11-11-1111,28
+1184, male, DILEK Ahmet, Bosnia and Herzegovina, 18-08-1974,28
+1185,, ANDERSSON Niklas, Sweden, 18-08-1978,28
+1186,, PAPP Andras, , 11-11-1111,28
+1187,, TODOROVIC Uros, Serbia, 11-11-1111,28
+1188,, FROSCHER Sven, Germany, 11-11-1111,28
+1189,, BERNAL Rosalinda, Mexico, 11-11-1111,27.5
+1190, female, BUFFINI Niamh, Ireland, 11-11-1111,27
+1191,, SHARMA Malti, India, 11-11-1111,27
+1192,, CUBILES David Maside, Spain, 11-11-1111,26.3
+1193, male, AMANI Paris, United States of America, 30-04-1965,26
+1194, male, HAIDER Abror, Denmark, 19-08-1973,26
+1195, male, KIM In-Kyung, Korea, 13-12-1972,26
+1196,, SABOL Michel, , 11-11-1111,26
+1197,, ROSS Matt, Canada, 11-11-1111,26
+1198,, JUNG Woomin, France, 11-11-1111,25.8
+1199, male, GANGOSO Oscar, Spain, 31-03-1978,25
+1200, male, JUHASZ Attila, Hungary, 01-11-1983,25
+1201, male, MINTER Francis, Germany, 29-08-1974,25
+1202, female, SALADO ALONSO Amparo, Spain, 11-11-1111,25
+1203, male, TSENTERZADE Akaki, Georgia, 02-02-1982,25
+1204, male, LEE Daniel, Uruguay, 31-01-1979,25
+1205, male, JATTA Gibril, Gambia, 11-11-1111,25
+1206, male, BAGIRE Allain Irene, Rwanda, 07-04-1986,25
+1207,, ABUHIJEH Tehsin, , 11-11-1111,25
+1208,, ANDONAKOPULOS Konstantinos, , 11-11-1111,25
+1209,, BUSHEHRI Majed, , 11-11-1111,25
+1210,, CHUNG Patrick, , 11-11-1111,25
+1211,, CIZMIC Esef, , 11-11-1111,25
+1212,, KUMAR RAI Nanda, , 11-11-1111,25
+1213,, LALIC Aleksandar, , 11-11-1111,25
+1214,, OTGONBAATAR Luvsanochir, , 11-11-1111,25
+1215,, PELGRIMS Rudy, , 11-11-1111,25
+1216,, SEMJIDSUREN Ganzorig, , 11-11-1111,25
+1217,, YU Ung-Cho, , 11-11-1111,25
+1218,, HARB Marc, Lebanon, 11-11-1111,25
+1219,, RJEILY Mark, Lebanon, 11-11-1111,25
+1220,, RODRIGUEZ Rosa, Finland, 18-07-1998,25
+1221,, GEORGIOU Michael, Jamaica, 06-06-1973,25
+1222,, ZAVALA Mario, Nicaragua, 12-10-1983,25
+1223,, HERRIOT Oliver, Puerto Rico, 21-07-1980,25
+1224,, PAK Ilia, Russian Federation, 11-11-1111,25
+1225, male, TSAI Ming-Chih, , 11-11-1111,24.3
+1226, male, ZAKRAJSEK Tomaz, Slovenia, 19-07-1978,24
+1227, male, SU Tai-Yuan, Taiwan, 06-07-1982,24
+1228, female, MENENDEZ ROMERO Raquel, Spain, 18-07-1989,24
+1229,, GERAGHTY Michael, , 11-11-1111,24
+1230,, PHIPPS Eugene, , 11-11-1111,24
+1231,, RIBERA APONTE Ricardo, , 11-11-1111,24
+1232,, SHIN Yong-Sup, , 11-11-1111,24
+1233,, SULLIVAN Eamon, , 11-11-1111,24
+1234, male, SOARES Mateus, Timor-L'este, 11-11-1111,24
+1235,, CHEHADE Ali, Sweden, 11-11-1111,24
+1236, female, HOSSEINI Zahra, Iran, 11-11-1111,24
+1237,, BABAKHANLOU Zahra, Iran, 11-11-1111,24
+1238, female, PEJO Mayumi, United States of America, 09-06-1972,23.8
+1239, male, MAKINEN Jarkko, Finland, 11-11-1111,23
+1240, male, GRANADOS CALDERON Carlos Luis, Costa Rica, 29-01-1950,23
+1241,, FIRDAUS Muhd, Malaysia, 11-11-1111,23
+1242,, MULLER Axel, Germany, 11-11-1111,23
+1243,, SANJEEVA KUMAR Singara, India, 11-11-1111,23
+1244, male, SAEDAH Emran, Palestinian Territory, 18-05-1990,22.5
+1245, male, NICOL Peter, Canada, 11-11-1111,22
+1246, male, CHO Yong-Oh, Sweden, 11-11-1111,22
+1247,, HEDLUND Paul, , 11-11-1111,22
+1248,, KAZEMI Habib, , 11-11-1111,22
+1249,, DODANGEH Ziba, Iran, 11-11-1111,22
+1250,, DONAL Cronin, , 11-11-1111,21.3
+1251, male, GURUNG, Nepal, 11-11-1111,21
+1252, male, VARDANYAN Vardan, Armenia, 15-03-1984,21
+1253,, DODSON Daniel, , 11-11-1111,21
+1254,, ERGUNOGLU Gulsevil, , 11-11-1111,21
+1255,, JOYCE Gerry, , 11-11-1111,21
+1256,, GELICHXANI Fardzin, Georgia, 11-11-1111,21
+1257,, SARSOZA Saimoore, United Kingdom of Great Britai, 11-11-1111,20.3
+1258, male, GABRIEL Mathias, Germany, 04-09-1980,20
+1259, male, KANG David, United States of America, 23-10-1974,20
+1260, male, MOI Chee Keong, Malaysia, 17-03-1959,20
+1261, male, RUTTEN Andreas, Australia, 18-11-1959,20
+1262, female, THAMAE Likeleli Alina, Lesotho, 04-01-1978,20
+1263, female, WONG Liang Ming, Singapore, 08-05-1963,20
+1264, male, SACHSENHOFER Franz, Austria, 08-01-1957,20
+1265, male, SITAPA Namoa, Tonga, 06-06-1980,20
+1266, male, RAMANANTSOA Narinja, Madagascar, 11-11-1111,20
+1267, female, MORA ARAYA Cindy, Costa Rica, 02-06-1989,20
+1268, male, TUN LINN Win, Myanmar, 11-12-1985,20
+1269, male, NKUALUMBO Meque Marlo, Mozambique, 28-04-1998,20
+1270,, ANDRASIK Sandor, , 11-11-1111,20
+1271,, ANN Tae-Joo, , 11-11-1111,20
+1272,, BISURAL Nastu Bahadur, , 11-11-1111,20
+1273,, BORDDENIUC Dmitri, , 11-11-1111,20
+1274,, KANG Jong-Kil, , 11-11-1111,20
+1275,, LEE Juang-Huyun, , 11-11-1111,20
+1276,, LORENTI ORELLANA Ricardo Saul Esteban, Guatemala, 11-11-1977,20
+1277,, MIJACIKA Andrija, , 11-11-1111,20
+1278,, NEMETH Jozef, , 11-11-1111,20
+1279,, PFEFFER Jason, , 11-11-1111,20
+1280,, OLSEN Susanne Mai, Denmark, 11-11-1111,20
+1281,, OH Young-Youl, Korea, 11-11-1111,20
+1282,, VULETIC Radojica, Montenegro, 11-11-1111,20
+1283,, NJOROGE Gladys, Botswana, 19-05-1978,20
+1284,, YEBOAH Steven, Ghana, 20-03-1977,20
+1285,, WASONGA George, Kenya, 14-04-1966,20
+1286,, JIN Jung, Lao, 25-03-1969,20
+1287,, PANYASIRI Chanthavong, Lao, 21-11-1979,20
+1288,, JANG Hee-Jae, Singapore, 24-03-1991,20
+1289,, MENIKDIWELA RATHNASEKARA Romesh, Sri Lanka, 05-05-1986,20
+1290,, DAMS van Henk, Suriname, 06-06-1966,20
+1291,, LEE Jae-Oh, Timor-L'este, 30-06-1984,20
+1292,, LEE Ju-Sang, Korea, 11-11-1111,20
+1293,, REZAEI GARMROUDI Reza, Iran, 11-11-1111,19.8
+1294,, EFREMOV Alexander, , 11-11-1111,19.5
+1295, male, HERNAN Francisco, Spain, 11-11-1111,19
+1296, male, HO Nhat Thong, Viet Nam, 20-10-1975,19
+1297, male, RAKKOLAINEN Timo, Finland, 11-11-1111,19
+1298, female, KOMRSOVA Vera, Czech Republic, 18-08-1986,19
+1299, male, VOGLAR Rene, Slovenia, 21-04-1996,19
+1300,, AVTANDIL Mikadze, , 11-11-1111,19
+1301,, JUN Woong-Hwan, , 11-11-1111,19
+1302,, NGUYEN Son, , 11-11-1111,19
+1303,, GUN Han-Jae, Korea, 11-11-1111,19
+1304,, BENAYOUW Alain, , 11-11-1111,18.8
+1305,, KOUGANKO Slava, , 11-11-1111,18.8
+1306,, STANCZAK Martine, , 11-11-1111,18.8
+1307,, SUARDI Sandy, Indonesia, 07-11-1986,18.8
+1308,, ESTAKI Morteza, Iran, 11-11-1111,18.5
+1309,, RODRIGUES Cesar Valentim, Austria, 03-04-1979,18.3
+1310, male, BERZINS Uldis, Latvia, 05-05-1976,18
+1311, female, FORGET Roxane, Canada, 17-01-1972,18
+1312,, KENNY Robert, , 11-11-1111,18
+1313,, USTUPSKY Marian, , 11-11-1111,18
+1314,, HAGGERTY John, , 11-11-1111,18
+1315,, YOUN Sek Nam, , 11-11-1111,18
+1316,, NOVAK Marco, Hrvatska, 29-03-1977,18
+1317,, ACOSTA MARIN Juan Luis, Spain, 11-11-1111,18
+1318, female, IUDINA Ludmila, Moldova, 20-01-1981,17
+1319, male, TRICOLICI Veaceslav, Moldova, 07-12-1971,17
+1320,, LATCHINIAN Ramy, , 11-11-1111,17
+1321,, LEMMENS Wim, Belgium, 11-11-1111,17
+1322,, WIDJAJA Eddy, , 11-11-1111,17
+1323,, GUO Gina, New Zealand, 11-11-1111,17
+1324, female, CHARNIAVSKAYA Alessia, Belarus, 23-01-1978,16.8
+1325,, FERS Bojan, Slovenia, 11-11-1111,16.3
+1326,, MESARIC Ladislav, Slovenia, 11-11-1111,16.3
+1327,, RATIGOWSKI Grzegorz, Poland, 11-11-1111,16.3
+1328,, JACKSON Edgar, , 11-11-1111,16
+1329,, LEE Dae-Il, , 11-11-1111,16
+1330,, MATVIYENKO Igor, , 11-11-1111,16
+1331,, STRAKHOVSKYY Roman, Ukraine, 16-03-1980,16
+1332,, TAMBARO Michele, Italy, 11-11-1111,16
+1333,, MUNOZ GUAL Cristina, Spain, 11-11-1111,16
+1334, male, HALL Martin, Australia, 15-08-1956,15.5
+1335, male, DICKEN Romain, Luxembourg, 06-02-1966,15
+1336, male, JIN Jung-Woo, Korea, 11-11-1111,15
+1337, male, OMERBASIC Devid, Austria, 13-06-1983,15
+1338, male, OSIDZE Ioseb, Georgia, 21-10-1984,15
+1339,, WHANG Jun-Chul, , 11-11-1111,15
+1340,, YAHUZA Ibrahim, Nigeria, 11-11-1111,15
+1341,, SPIDSBJERG Brian, Denmark, 11-11-1111,15
+1342,, FRANKFORD sen- Eduard, Austria, 11-11-1111,15
+1343,, HAARSTAD Karl Erik, Norway, 11-11-1111,15
+1344, male, COULIDAITY Tiandama, Burkina Faso, 08-01-1966,15
+1345,, RODRIGUEZ Teofilo, Aruba, 28-02-1959,15
+1346,, RAMFUL Pharaj, Mauritius, 23-06-1967,15
+1347,, SHAW Corey, New Zealand, 17-09-1988,15
+1348,, KURZEN Noel, Switzerland, 21-01-1976,15
+1349,, GHIYASI Ebrahim, Iran, 11-11-1111,15
+1350,, DHARMAPRIYA Rasika, Sri Lanka, 11-11-1111,15
+1351,, YADHAV Janardhan, India, 11-11-1111,15
+1352,, OLIVERI Ramon, , 11-11-1111,14
+1353,, YOUNES Walid, , 11-11-1111,14
+1354,, LESOVOI Iuri, Moldova, 22-07-1960,13.8
+1355, male, SPINKS Sherman, United States of America, 23-10-1965,13.3
+1356,, BA Thaung Che, , 11-11-1111,13
+1357,, HADJICHARALAMBOUS Pambos, , 11-11-1111,13
+1358,, QUI Bingxin, , 11-11-1111,13
+1359,, SONG Sangmin, , 11-11-1111,13
+1360,, DIWAKAR Yamini, India, 11-11-1111,13
+1361,, KAWITI Ron, New Zealand, 11-11-1111,12.8
+1362, male, KUSHNIR Dzmitry, Belarus, 11-11-1111,12.8
+1363, male, BARTEL Thorsten, Germany, 22-01-1962,12.5
+1364,, JODEH Ibrahem, Palestinian Territory, 11-11-1111,12.5
+1365, male, BABIC Vanja, Serbia, 18-07-1981,12
+1366, male, MEULENG Cedrick, Netherlands Antilles, 11-11-1111,12
+1367, male, KARUNARATHMA Ajantha, Sri Lanka, 08-12-1975,12
+1368,, JONG Won-Se, , 11-11-1111,12
+1369,, KLIMISHIN Petr, , 11-11-1111,12
+1370,, SILVA LARGAESPADA Eddy, , 11-11-1111,12
+1371,, SPATARO Angelo, Monaco, 04-02-1959,12
+1372,, SVANBORG Dennis, , 11-11-1111,12
+1373,, WILFARIO Willems, , 11-11-1111,12
+1374,, FERNANDO Upul Susith, Sri Lanka, 11-11-1111,12
+1375, male, PEJO Michael, United States of America, 11-11-1111,11.3
+1376,, CLIPEA Sebastian, Romania, 11-11-1111,11.3
+1377, male, HUBER Gerhard, Austria, 19-02-1981,11
+1378,, BORGEN Tim, Norway, 11-11-1111,11
+1379,, MORAN MARTIN Roberto, Spain, 11-11-1111,11
+1380,, TULLY James, Isle of Man, 11-11-1111,10.5
+1381, male, MAMNOUH Mustafa, Netherlands, 11-11-1111,10
+1382, female, SANKAR Cheryl Ann, Trinidad and Tobago, 26-02-1964,10
+1383, male, WEISS Giancarlo, Peru, 11-11-1111,10
+1384, male, BUSCA Raul, Argentina, 11-11-1111,10
+1385, male, CHOKWENDA Langton, Zimbabwe, 02-08-1982,10
+1386, male, JASON Anju, Marshall Islands, 21-11-1987,10
+1387, male, KIKIMA Fanfan Yogote, Congo, 12-07-1989,10
+1388,, AMADOU SALEY Ibrahim, , 11-11-1111,10
+1389,, BARANSKIS Oleg, , 11-11-1111,10
+1390,, BARY Mody Sory, , 11-11-1111,10
+1391,, BORJAS Roman, , 11-11-1111,10
+1392,, CRUDEN Henrich Ulrich, , 11-11-1111,10
+1393,, FUNG Wai Kei, , 11-11-1111,10
+1394,, GUACCHIO del Gerardo, , 11-11-1111,10
+1395,, ISHAQ Mohamed, , 15-01-1973,10
+1396,, KOMOV Eric, , 11-11-1111,10
+1397,, LEYES Gerardo, , 11-11-1111,10
+1398,, PINA de Jose, , 11-11-1111,10
+1399,, SAVENKOV Sergey, , 25-05-1969,10
+1400, male, BAGABO Placide, Rwanda, 01-01-1984,10
+1401,, ANDERSEN Sarah Marie, , 11-11-1111,10
+1402,, CARRASCO Steven, , 11-11-1111,10
+1403, male, HARDEL Johan, New Caledonia, 24-11-1985,10
+1404,, MASINGA Lovemore, Malawi, 12-10-1980,10
+1405,, RUSSELL Stuart, Ireland, 10-07-1975,10
+1406,, SIMWINGA Jathel Nondo, Zambia, 15-02-1984,10
+1407, male, ALLEYNE Askia, Barbados, 05-01-1987,10
+1408,, KIM Byeong-Hee, Korea, 01-09-1976,10
+1409,, SEYS Richard Jacques Denis, , 21-01-1978,10
+1410,, LAMDAGHRI ALAOUI Badr Eddine, Estonia, 28-04-1981,10
+1411,, MOSESE Dan, Fiji, 09-07-1973,10
+1412,, RASHIDI Bahar, Iran, 20-11-1986,10
+1413,, DECAILLE Samuel, St- Lucia, 07-06-1957,10
+1414,, SALIBA Brian, Malta, 03-11-1969,10
+1415,, OTTO Andy, St- Kitts and Nevis, 11-01-1965,10
+1416,, HAN Seung-Yong, Tajikistan, 10-06-1981,10
+1417,, HOOI Jun Jung, Tajikistan, 01-09-1964,10
+1418,, ESEKIA Tala, Tuvalu, 11-04-1968,10
+1419,, ALMAAZMI Abdulla, United Arab Emirates, 27-01-1977,10
+1420,, AL-QADRI Khaled Maqpol, Yemen, 03-04-1972,10
+1421,, YOGI Subhash, India, 11-11-1111,10
+1422,, GONZALEZ ARIAS Modesto, Spain, 11-11-1111,10
+1423,, MABUZA Sizwe, Swaziland, 11-11-1111,10
+1424,, SAMANO HERNANDEZ Jose, , 11-11-1111,9.8
+1425, male, ARKANWAR Praga, Indonesia, 11-11-1111,9
+1426, male, PAPADEAS Nikolaos, Greece, 22-08-1963,9
+1427,, ABDUL ALKHREEM Jamal, , 11-11-1111,9
+1428,, BOCKNAM Sung, , 11-11-1111,9
+1429,, JOVA Julio, , 11-11-1111,9
+1430,, PARK Ki-Dong, , 11-11-1111,9
+1431,, SHIMADA Akio, , 11-11-1111,9
+1432,, WIJANARKO Bambang, , 11-11-1111,9
+1433, male, ZAREEI SHAMSABADI Jafar, , 11-11-1111,9
+1434, male, ORTIGOZA Diego, Andorra, 11-11-1111,9
+1435,, SVENDSEN Mickey, Denmark, 11-11-1111,9
+1436,, CHOI Yong-Seob, Moldova, 11-11-1111,8.8
+1437, female, EVANS Elizabeth, United States of America, 30-03-1962,8.5
+1438,, BARE Anthony, , 11-11-1111,8.5
+1439, male, PETERS Marco, Netherlands, 03-03-1965,8
+1440, male, PASCARI Veaceslav, Moldova, 24-12-1986,8
+1441, female, PROCOPCIUC Lilia, Moldova, 20-11-1988,8
+1442,, KEE Wong Hee, , 11-11-1111,8
+1443,, LOKE Woon Tai, , 11-11-1111,8
+1444,, MONTEIRO Jose, Portugal, 11-11-1111,8
+1445,, MOHSEN Barati, , 11-11-1111,7.5
+1446,, SOW Abdoul Karim, , 11-11-1111,7
+1447,, YAU Chin Wah, , 11-11-1111,7
+1448,, MERCSE Attila, Hungary, 11-11-1111,7
+1449,, GRATT Patrick, Austria, 11-11-1111,7
+1450,, RIDLEY Joel, , 11-11-1111,6.8
+1451,, SULEIMAN Serif, , 11-11-1111,6.3
+1452,, TEOFILOVIC Goran, , 11-11-1111,6.3
+1453, male, HOHOUD Abdelkrim, Belgium, 09-02-1979,6
+1454, male, LUTTECKEN Meinolf, Germany, 20-12-1947,6
+1455, male, NOSEK Karel, Czech Republic, 08-03-1982,6
+1456, male, RASIC Stevan, Serbia, 20-08-1986,6
+1457, male, WEIDINGER Markus, Austria, 25-12-1984,6
+1458, male, LOWE Theophil, India, 11-11-1111,6
+1459, male, FRANKFORD Eduard, Austria, 13-08-1997,6
+1460,, ATANASOVSKI Spase, , 11-11-1111,6
+1461,, BATTULGA Nasankhuu, , 11-11-1111,6
+1462,, DWEIKE BASEL Abdel Hay, , 11-11-1111,6
+1463,, GUNNARSSON Jon Ragnar, , 11-11-1111,6
+1464,, LOAIZA Alberto, , 11-11-1111,6
+1465,, PATAKFALVI Miklos Antal, Hungary, 15-12-1953,6
+1466,, THET Shein, , 11-11-1111,6
+1467, male, ASP Victor, Norway, 06-10-1998,6
+1468,, HUSIC Haris, Bosnia and Herzegovina, 11-11-1111,6
+1469,, CAMACHO Francisco, Dominican Republic, 11-11-1111,6
+1470,, SUORELA Iiro, Finland, 11-11-1111,6
+1471,, KRASNIQI Bashkim, Kosovo, 15-02-1989,6
+1472,, SHAH Pamir Yogeshbhai, India, 15-04-1984,5.8
+1473,, WOODHOUSE Scott, , 11-11-1111,5.5
+1474,, BULBUL Serkan, Turkey, 10-10-1975,5.5
+1475,, CZERNY Josef, , 11-11-1111,5.3
+1476,, EICHELBERGER Rudolf, Austria, 11-11-1111,5.3
+1477,, HOWE Janet, , 11-11-1111,5.3
+1478,, BANG Kun-Mo, , 11-11-1111,5
+1479,, KIM Yun-Sik, , 11-11-1111,5
+1480,, RANAIVO Raoul Flobert, , 11-11-1111,5
+1481,, BELMAATI Anas, Ireland, 27-04-1987,5
+1482,, YURTSEVER Umit, Turkey, 11-11-1111,5
+1483,, WAHEGBAM Rajeswor Meitei, India, 11-11-1111,5
+1484,, RIVASPLATA MATUTE Henry, , 11-11-1111,4
+1485,, AMESCUA Carlos, Canada, 11-11-1111,4
+1486, male, GALAMBOS Bence, Hungary, 30-11-1992,3
+1487,, PINA Joseph, Cape Verde, 11-11-1111,3
+1488,, LEONHARD Dylan, Ireland, 12-12-1994,3
+1489,, LEONARD Dylan, Ireland, 11-11-1111,3
+1490,, SERSAN Volkan, Turkey, 11-11-1111,3
+1491,, VADI Ugur, Turkey, 11-11-1111,3
+1492,, SETTA Tarik, Denmark, 11-11-1111,3
+1493, male, MBONIGABA Boniface, Rwanda, 24-12-1985,2.5
+1494,, VUJASINOVIC Erna, Hrvatska, 11-11-1111,2.3
+1495,, SIROTA Michael, , 11-11-1111,2
